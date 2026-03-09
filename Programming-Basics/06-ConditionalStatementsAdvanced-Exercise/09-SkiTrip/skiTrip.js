@@ -1,7 +1,9 @@
 function SkiTrip(days, place, grade) {
     // Variables for later use
     let total;
-    let nights;
+
+    // Make sure that days are minus 1 for the counted nights
+    days -= 1;
     
     // Create the prices for later use
     let roomForOnePerson = 18.00;
@@ -69,5 +71,19 @@ function SkiTrip(days, place, grade) {
         }
     }
 
-    // Check if the 
+    // Check what the Atana's grade will be
+    if (grade === "positive") {
+        total += (total * (25 / 100));
+    }
+    else if (grade === "negative") {
+        total -= (total * (10 / 100));
+    }
+
+    // Print the result to the console
+    console.log(total.toFixed(2));
 }
+
+SkiTrip(14, "apartment", "positive");
+SkiTrip(30, "president apartment", "negative");
+SkiTrip(12, "room for one person", "positive");
+SkiTrip(2, "apartment", "positive");

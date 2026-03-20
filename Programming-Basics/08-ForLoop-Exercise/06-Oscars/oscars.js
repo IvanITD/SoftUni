@@ -15,7 +15,7 @@ function Oscars(array) {
 
         // Check if the academy points have exceeded 1250.5 and break if so.
         if (academyPoints >= 1250.50) {
-            console.log(`Congratulations, ${actorName} got a nominee for leading role with ${academyPoints}!`);
+            console.log(`Congratulations, ${actorName} got a nominee for leading role with ${academyPoints.toFixed(1)}!`);
             break;
         }
     }
@@ -24,7 +24,7 @@ function Oscars(array) {
     if (academyPoints < 1250.50) {
         // Calculate the needed points
         let neededPoints = 1250.50 - academyPoints;
-        console.log(`Sorry, ${actorName} you need ${neededPoints.toFixed(1)}`);
+        console.log(`Sorry, ${actorName} you need ${neededPoints.toFixed(1)} more!`);
     }
 }
 

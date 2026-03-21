@@ -1,0 +1,19 @@
+function Combinations(n) {
+    // Creating a counter for the combination
+    let combinationsCount = 0;
+
+    // Creating a for loop that will iterate through all possible combinations of numbers from 0 to x1, and from 0 to x2, and from 0 to x3.
+    for (let x1 = 0; x1 <= n; x1++) {
+        for (let x2 = 0; x2 <= n; x2++) {
+            for (let x3 = 0; x3 <= n; x3++) {
+                if (x1 + x2 + x3 == n) {
+                    combinationsCount++;
+                }
+            }
+        }
+    }
+    // Printing the number of the combinations count
+    console.log(combinationsCount);
+}
+
+Combinations(25);

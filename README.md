@@ -8,9 +8,9 @@ The **SoftUni 2025** curriculum is designed to provide comprehensive training in
 
 ### 1. Entry Module | <a href="https://softuni.bg/trainings/4880/programming-basics-with-csharp-january-2025" class="button">**Programming Basics**</a> 💻
 
-The journey begins with a **free preparatory course** in **Programming Basics**, where I will choose one of the following programming languages: C#, Java, JS, or Python. This module concludes with an entrance exam to determine the next steps in the curriculum.
+The journey begins with a **free preparatory course** in **Programming Basics**, where I will choose one of the following programming languages: C#, and JS. This module concludes with an entrance exam to determine the next steps in the curriculum.
 
-- **Course Languages**: <b><i>C#</b></i>, Java, JavaScript, Python
+- **Course Languages**: <b><i>C#</b></i>, and <b><i>JavaScript</b></i>
 - **Goal**: To build a strong foundation in programming, covering basic syntax and introductory concepts.
 
 ---
@@ -19,7 +19,7 @@ The journey begins with a **free preparatory course** in **Programming Basics**,
 
 In the **Fundamentals Module**, I will learn essential programming concepts and techniques. This module will solidify my understanding of the basics with the chosen programming language.
 
-- **Course Languages**: C#, Java, JavaScript, Python
+- **Course Languages**: C#, and JavaScript
 - **Goal**: To master fundamental programming concepts like variables, data types, loops, conditionals, functions, and basic problem-solving.
 
 ---

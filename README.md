@@ -1,69 +1,13 @@
-# SoftUni 2025 - Path to Becoming a Software Engineer 🚀
+# SoftUni 2025 - Path to Becoming a Full-Stack Engineer 🚀
 
-Welcome to my **SoftUni 2025** repository! This repository contains all the milestones, tasks, and solutions I will complete as part of my journey to becoming a **Software Engineer**. I’m following the curriculum at **SoftUni**, and this repository will reflect the knowledge and skills I acquire along the way.
-
-## 📚 Curriculum Overview
-
-The **SoftUni 2025** curriculum is designed to provide comprehensive training in programming, from the basics to advanced software engineering concepts. The path starts with foundational knowledge and progresses into specialized fields, leading to a career as a software engineer.
-
-### 1. Entry Module | <a href="https://softuni.bg/trainings/4880/programming-basics-with-csharp-january-2025" class="button">**Programming Basics**</a> 💻
-
-The journey begins with a **free preparatory course** in **Programming Basics**, where I will choose one of the following programming languages: C#, and JS. This module concludes with an entrance exam to determine the next steps in the curriculum.
-
-- **Course Languages**: <b><i>C#</b></i>, and <b><i>JavaScript</b></i>
-- **Goal**: To build a strong foundation in programming, covering basic syntax and introductory concepts.
-
----
-
-### 2. Fundamentals Module | **Programming Fundamentals** 🛠️
-
-In the **Fundamentals Module**, I will learn essential programming concepts and techniques. This module will solidify my understanding of the basics with the chosen programming language.
-
-- **Course Languages**: C#, and JavaScript
-- **Goal**: To master fundamental programming concepts like variables, data types, loops, conditionals, functions, and basic problem-solving.
-
----
-
-### 3. Professional Modules | **Software Engineer with C#** 🌐
-
-After the **Fundamentals Module**, I will dive into more specialized knowledge, starting with **C#** and gaining expertise in one of the following professional tracks:
-
-#### a) **C# Advanced** 🚀
-- **C# ADVANCED**: Advanced C# concepts such as LINQ, async/await, advanced object-oriented programming (OOP).
-- **C# OOP**: Deep dive into object-oriented programming principles, inheritance, polymorphism, and design patterns.
-
-#### b) **C# DB** 💾
-- **MS SQL**: Database management and querying with Microsoft SQL Server.
-- **Entity Framework Core**: ORM for data access in .NET applications.
-
-#### c) **C# Web** 🌍
-- **ASP.NET Fundamentals**: Learn the basics of web development using ASP.NET Core, covering controllers, views, routing, and more.
-- **ASP.NET Advanced**: Advanced web development techniques in ASP.NET, including middleware, authentication, and authorization.
-
-#### d) **JS Front-End** 📱
-- **HTML & CSS**: Web page design and structure using HTML and styling with CSS.
-- **JavaScript Front-End**: Introduction to JavaScript, DOM manipulation, and basic front-end interactivity.
-
----
-
-### 4. Specialization Module | **Full-Stack Developer** 🔧
-
-After becoming a **Software Engineer** with C#, Java, or Python, I can specialize further in the **DevOps** module, ultimately pursuing a career as a **Full-Stack Developer**. 
-
-#### a) **C# Full-Stack Developer** 🌐
-- **Software Engineering and DevOps**: Learn DevOps practices for continuous integration and delivery, automated testing, and deployment.
-- **Containers and Cloud**: Specialize in containerization using Docker and cloud computing platforms like AWS and Azure.
-
----
+Welcome to my **SoftUni** repository! This repository contains all the milestones, tasks, and solutions I will complete as part of my journey to becoming a **Full-Stack Engineer**. I’m following the curriculum at **SoftUni**, and this repository will reflect the knowledge and skills I acquire along the way.
 
 ## 🛠️ Tools & Technologies Used
 
 Throughout my journey, I’ll be utilizing a wide range of tools and technologies to help me succeed:
 
-- **Programming Languages**: C#, Java, JavaScript, Python
-- **Database**: MS SQL, Entity Framework Core
-- **Web Technologies**: HTML, CSS, ASP.NET, JavaScript
-- **Development Tools**: Visual Studio, Visual Studio Code, Git, GitHub, Docker, Azure, AWS
+- **Programming Languages**: C#, and JavaScript <b>⚠️Pending Update⚠️</b>
+- **Development Tools**: Visual Studio, Visual Studio Code, Git, GitHub <b>⚠️Pending Update⚠️</b>
 
 ---
 
@@ -74,12 +18,12 @@ Here’s a quick overview of my progress in the **SoftUni 2025** curriculum:
 | Module                         | Status       | Concepts Learned                               |
 | ------------------------------ | ------------ | ---------------------------------------------- |
 | **Programming Basics**          | ✅ Completed | Intro to programming, variables, data types, loops, conditionals |
-| **Programming Fundamentals**    | ❌ Not Started | Functions, arrays, basic algorithms            |
-| **C# Advanced**                 | ❌ Not Started | LINQ, async/await, advanced OOP                |
-| **C# DB**                       | ❌ Not Started | SQL, Entity Framework Core                     |
-| **C# Web**                      | ❌ Not Started | ASP.NET, MVC, REST APIs                        |
-| **JS Front-End**                | ❌ Not Started | HTML, CSS, JavaScript, DOM manipulation        |
-| **DevOps**                      | ❌ Not Started | Docker, CI/CD, Cloud Computing                 |
+| **Programming Fundamentals**    | ❌ Not Started | -								               |
+| **JS Advanced**                 | ❌ Not Started | -									           |
+| **Web Core**                    | ❌ Not Started | -								               |
+| **JS Back-End**                 | ❌ Not Started | -								           	   |
+| **React**                		  | ❌ Not Started | -									           |
+| **DevOps for Developers**       | ❌ Not Started | -							                   |
 
 ---
 

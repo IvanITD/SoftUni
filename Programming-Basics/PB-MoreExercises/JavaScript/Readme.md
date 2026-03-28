@@ -1,11 +1,11 @@
-<h1>SoftUni <a href="https://softuni.bg/trainings/4880/programming-basics-with-csharp-january-2025" class="button">Programming Basics with C# - PB More Exercises 🚀</a></h1>
+<h1>SoftUni - Programming Basics with JavaScript - PB More Exercises 🚀</a></h1>
 <h3>📖 About This Repository</h3>
-<p>Welcome to my <b>SoftUni Programming Basics with C#</b> repository! 👨‍💻</p>
-<p>This repository contains all the tasks and solutions I’ve completed during the <b>Programming Basics with C#</b> course at SoftUni, specifically the <b>PB More Exercises</b> section. Each solution reflects my journey of mastering the fundamentals of programming, building a strong foundation for future development.</p>
+<p>Welcome to my <b>SoftUni Programming Basics with JavaScript</b> repository! 👨‍💻</p>
+<p>This repository contains all the tasks and solutions I’ve completed during the <b>Programming Basics with JavaScript</b> course at SoftUni, specifically the <b>PB More Exercises</b> section. Each solution reflects my journey of mastering the fundamentals of programming, building a strong foundation for future development.</p>
 <hr>
 <h3>🛠️ Tools and Technologies</h3>
 <ul>
-    <li><b>Programming Language:</b> C#</li>
+    <li><b>Programming Language:</b> JavaScript</li>
     <li><b>IDE:</b> Visual Studio / Visual Studio Code</li>
     <li><b>Version Control:</b> Git & GitHub</li>
 </ul>
@@ -29,17 +29,17 @@
   <tbody>
     <tr>
       <td>First Steps in Coding - More Exercises</td>
-      <td>✅ Complete</td>
+      <td>✅ Completed / 🚧 In Progress</td>
       <td><b><i>Basic Calculations</i></b> | <b><i>Data Types</i></b> | <b><i>Console Input/Output</i></b> | <b><i>Problem Solving</i></b></td>
     </tr>
     <tr>
       <td>Conditional Statements - More Exercises</td>
-      <td>✅ Complete</td>
+      <td>🚧 In Progress</td>
       <td><b><i>Boolean Logic</i></b> | <b><i>Comparison Operators</i></b> | <b><i>Decision Making</i></b> | <b><i>Nested Conditions</i></b></td>
     </tr>
     <tr>
       <td>Conditional Statements Advanced - More Exercises</td>
-      <td>✅ Complete</td>
+      <td>🚧 In Progress</td>
       <td><b><i>Complex Conditions</i></b> | <b><i>Switch-Case</i></b> | <b><i>Nested Conditions</i></b> | <b><i>Logical Operators</i></b></td>
     </tr>
     <tr>
@@ -74,10 +74,10 @@
 <details>
 <summary><strong>More Exercises</strong> (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises" class="button"><b><i>Folder Preview</i></b></a>)</summary>
 <ol>
-  <li>Trapeziod Area (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/01.%20Trapeziod%20Area/TrapeziodArea/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Triangle Area (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/02.%20Triangle%20Area/TriangleArea/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Celsius to Fahrenheit (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/03.%20Celsius%20to%20Fahrenheit/CelciusToFahrenheit/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Vegetable Market (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/04.%20Vegetable%20Market/VegetableMarket/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Trapeziod Area (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Triangle Area (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Celsius to Fahrenheit (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Vegetable Market (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Training Lab (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/05.%20Training%20Lab/TrainingLab/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Fishland (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/06.%20Fishland/FishLand/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>House Painting (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/07.%20House%20Painting/HousePainting/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
@@ -201,4 +201,4 @@
 </ul>
 <hr>
 <h3>📢 Note</h3>
-<p>This repository reflects my ongoing progress in the <b>SoftUni Programming Basics with C#</b> course. Some solutions may evolve as I learn and improve. Thank you for visiting and happy coding! 😊</p>
+<p>This repository reflects my ongoing progress in the <b>SoftUni Programming Basics with JavaScript</b> course. Some solutions may evolve as I learn and improve. Thank you for visiting and happy coding! 😊</p>

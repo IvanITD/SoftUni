@@ -72,9 +72,9 @@
 <!--First Steps in Coding  - More Exercises-->
 <h3>First Steps in Coding</h3>
 <details>
-<summary><strong>More Exercises</strong> (<a href="https://github.com/IvanITD/SoftUni-2025/tree/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises" class="button"><b><i>Folder Preview</i></b></a>)</summary>
+<summary><strong>More Exercises</strong> (<a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/PB-MoreExercises/JavaScript/01-FirstStepsInCoding-MoreExercises" class="button"><b><i>Folder Preview</i></b></a>)</summary>
 <ol>
-  <li>Trapeziod Area (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Trapeziod Area (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/01-FirstStepsInCoding-MoreExercises/01-TrapeziodArea/trapeziodArea.js" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Triangle Area (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Celsius to Fahrenheit (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Vegetable Market (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>

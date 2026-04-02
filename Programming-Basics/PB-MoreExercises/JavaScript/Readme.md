@@ -75,15 +75,15 @@
 <summary><strong>More Exercises</strong> (<a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/PB-MoreExercises/JavaScript/01-FirstStepsInCoding-MoreExercises" class="button"><b><i>Folder Preview</i></b></a>)</summary>
 <ol>
   <li>Trapeziod Area (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/01-FirstStepsInCoding-MoreExercises/01-TrapeziodArea/trapeziodArea.js" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Triangle Area (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Celsius to Fahrenheit (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Vegetable Market (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Training Lab (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/05.%20Training%20Lab/TrainingLab/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Fishland (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/06.%20Fishland/FishLand/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>House Painting (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/07.%20House%20Painting/HousePainting/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Circle Area and Perimeter (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/08.%20Circle%20Area%20and%20Perimeter/CircleAreaAndPerimeter/Program.cs" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
-  <li>Weather Forecast (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/09.%20Weather%20Forecast1/WeatherForecast1/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Weather Forecast - Part 2 (<a href="https://github.com/IvanITD/SoftUni-2025/blob/main/PB%20-%20More%20Exercises/1.%20First%20Steps%20In%20Coding%20-%20More%20Exercises/09.%20Weather%20Forecast1/WeatherForecast1/Program.cs" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Triangle Area (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/01-FirstStepsInCoding-MoreExercises/02-TriangleArea/triangleArea.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Celsius to Fahrenheit (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/01-FirstStepsInCoding-MoreExercises/03-CelsiusToFahrenheit/celsiusToFahrenheit.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Vegetable Market (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/01-FirstStepsInCoding-MoreExercises/04-VegetableMarket/vegetableMarket.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Training Lab (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/01-FirstStepsInCoding-MoreExercises/05-TrainingLab/trainingLab.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Fishland (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/01-FirstStepsInCoding-MoreExercises/06-Fishland/fishland.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>House Painting (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Circle Area and Perimeter (<a href="" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Weather Forecast (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Weather Forecast - Part 2 (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
 </ol>
 </details>
 

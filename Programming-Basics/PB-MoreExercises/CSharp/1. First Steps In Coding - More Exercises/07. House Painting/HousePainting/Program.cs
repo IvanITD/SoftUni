@@ -33,7 +33,7 @@ double twoTriangles = 2 * (x * h / 2);
 // Total roof area
 double totalRoofArea = twoRectangles + twoTriangles;
 
-//Black Paint
+// Red Paint
 double redPaint = totalRoofArea / 4.3;
 
 Console.WriteLine($"{greenPaint:f2}"); // Litres green paint

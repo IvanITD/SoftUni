@@ -29,17 +29,17 @@
   <tbody>
     <tr>
       <td>First Steps in Coding - More Exercises</td>
-      <td>✅ Completed / 🚧 In Progress</td>
+      <td>✅ Completed</td>
       <td><b><i>Basic Calculations</i></b> | <b><i>Data Types</i></b> | <b><i>Console Input/Output</i></b> | <b><i>Problem Solving</i></b></td>
     </tr>
     <tr>
       <td>Conditional Statements - More Exercises</td>
-      <td>🚧 In Progress</td>
+      <td>✅ Completed</td>
       <td><b><i>Boolean Logic</i></b> | <b><i>Comparison Operators</i></b> | <b><i>Decision Making</i></b> | <b><i>Nested Conditions</i></b></td>
     </tr>
     <tr>
       <td>Conditional Statements Advanced - More Exercises</td>
-      <td>🚧 In Progress</td>
+      <td>✅ Completed</td>
       <td><b><i>Complex Conditions</i></b> | <b><i>Switch-Case</i></b> | <b><i>Nested Conditions</i></b> | <b><i>Logical Operators</i></b></td>
     </tr>
     <tr>
@@ -90,34 +90,34 @@
 <!--Conditional Statements - More Exercises-->
 <h3>Conditional Statements</h3>
 <details>
-<summary><strong>More Exercises</strong> (<a href="" class="button"><b><i>No Preview</i></b></a>)</summary>
+<summary><strong>More Exercises</strong> (<a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/PB-MoreExercises/JavaScript/02-ConditionalStatements-MoreExercises" class="button"><b><i>Folder Preview</i></b></a>)</summary>
 <ol>
-  <li>Pipes In Pool (<a href="" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
-  <li>Sleepy Tom Cat (<a href="" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
-  <li>Harvest (<a href="" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
-  <li>Transport Price (<a href="" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
-  <li>Pets (<a href="" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
-  <li>Flower Shop (<a href="" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
-  <li>Fuel Tank (<a href="" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
-  <li>Fuel Tank - Part 2 (<a href="" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Pipes In Pool (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/02-ConditionalStatements-MoreExercises/01-PipesInPool/pipesInPool.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Sleepy Tom Cat (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/02-ConditionalStatements-MoreExercises/02-SleepyTomCat/sleepyTomCat.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Harvest (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/02-ConditionalStatements-MoreExercises/03-Harvest/harvest.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Transport Price (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/02-ConditionalStatements-MoreExercises/04-TransportPrice/transportPrice.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Pets (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/02-ConditionalStatements-MoreExercises/05-Pets/pets.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Flower Shop (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/02-ConditionalStatements-MoreExercises/06-FlowerShop/flowerShop.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Fuel Tank (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/02-ConditionalStatements-MoreExercises/07-FuelTank/fuelTank.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Fuel Tank - Part 2 (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/02-ConditionalStatements-MoreExercises/08-FuelTank-PartTwo/fuelTankPartTwo.js" class="button"><b><i>Code Preview</i></b></a>)</li>
 </ol>
 </details>
 
 <!--Conditional Statements Advanced - More Exercises-->
 <h3>Conditional Statements Advanced</h3>
 <details>
-<summary><strong>More Exercises</strong> (<a href="" class="button"><b><i>No Preview</i></b></a>)</summary>
+<summary><strong>More Exercises</strong> (<a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises" class="button"><b><i>Folder Preview</i></b></a>)</summary>
 <ol>
-  <li>Match Tickets (<a href="" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
-  <li>Bike Race (<a href="" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
-  <li>Flowers (<a href="" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
-  <li>Car To Go (<a href="" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
-  <li>Vacation (<a href="" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
-  <li>Truck Driver (<a href="" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
-  <li>School Camp (<a href="" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
-  <li>Point on Rectangle Border (<a href="" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
-  <li>Numbers from 1 to 10 (<a href="" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
-  <li>Multiply by 2 (<a href="" class="button"><b><i>Not Solved Yet</i></b></a>)</li>
+  <li>Match Tickets (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises/01-MatchTickets/matchTickets.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Bike Race (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises/02-BikeRace/bikeRace.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Flowers (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises/03-Flowers/flowers.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Car To Go (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises/04-CarToGo/carToGo.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Vacation (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises/05-Vacation/vacation.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Truck Driver (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises/06-TruckDriver/truckDriver.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>School Camp (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises/07-SchoolCamp/schoolCamp.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Point on Rectangle Border (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises/08-PointOnRectangleBorder/pointOnRectangleBorder.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Numbers from 1 to 10 (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises/09-NumbersFromOneToTen/numbersFromOneToTen.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Multiply by 2 (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises/10-MultiplyByTwo/multiplyByTwo.js" class="button"><b><i>Code Preview</i></b></a>)</li>
 </ol>
 </details>
 
@@ -201,4 +201,4 @@
 </ul>
 <hr>
 <h3>📢 Note</h3>
-<p>This repository reflects my ongoing progress in the <b>SoftUni Programming Basics with JavaScript</b> course. Some solutions may evolve as I learn and improve. Thank you for visiting and happy coding! 😊</p>
+<p>This part of the repository reflects my ongoing progress in the <b>Programming Basics More Exercises with JavaScript</b> course. Some solutions may evolve as I learn and improve. Thank you for visiting and happy coding! 😊</p>

@@ -18,7 +18,7 @@ Here’s a quick overview of my progress in the **SoftUni** curriculum:
 | Module                         | Status       | Concepts Learned                               |
 | ------------------------------ | ------------ | ---------------------------------------------- |
 | **Programming Basics**          | ✅ Completed | Intro to programming, variables, data types, loops, conditionals |
-| **Programming Fundamentals**    | ❌ Not Started | -								               |
+| **Programming Fundamentals**    | 🚧 In Progress | -								               |
 | **JS Advanced**                 | ❌ Not Started | -									           |
 | **Web Core**                    | ❌ Not Started | -								               |
 | **JS Back-End**                 | ❌ Not Started | -								           	   |
@@ -70,8 +70,21 @@ Here’s a quick overview of my progress in the **SoftUni** curriculum:
 
 </details>
 
+## Programming Fundamentals
 
-<hr>
+<details>
+<summary><b>JavaScript Resolution</b></summary>
+<pre>
+│	├── Topic 1
+│	├── Topic 2
+│	├── Topic 3
+│	├── Topic 4
+│	├── Topic 5
+│	├── Topic 6
+│	├── Topic 7
+...
+	</pre>
+</details>
 
 <h3>🌟 Get in Touch</h3>
 <p>If you have any questions or suggestions, feel free to reach out via:</p>

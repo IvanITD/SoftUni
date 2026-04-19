@@ -279,27 +279,27 @@
   <!--Nested Loops - Lab-->
   <h3>Nested Loops</h3>
   <details>
-    <summary><strong>Lab</strong> (<a href="" class="button"><b><i>Folder Preview</i></b></a>)</summary>
+    <summary><strong>Lab</strong> (<a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/JavaScript/11-NestedLoops-Lab" class="button"><b><i>Folder Preview</i></b></a>)</summary>
       <ol>
-        <li>Clock (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-        <li>Multiplication Table (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-        <li>Combinations (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-        <li>Sum of Two Numbers (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-        <li>Traveling (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-        <li>Building (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+        <li>Clock (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/JavaScript/11-NestedLoops-Lab/01-Clock/clock.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+        <li>Multiplication Table (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/JavaScript/11-NestedLoops-Lab/02-MultiplicationTable/multiplicationTable.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+        <li>Combinations (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/JavaScript/11-NestedLoops-Lab/03-Combinations/combinations.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+        <li>Sum of Two Numbers (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/JavaScript/11-NestedLoops-Lab/04-SumOfTwoNumbers/sumOfTwoNumbers.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+        <li>Traveling (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/JavaScript/11-NestedLoops-Lab/05-Traveling/traveling.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+        <li>Building (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/JavaScript/11-NestedLoops-Lab/06-Building/building.js" class="button"><b><i>Code Preview</i></b></a>)</li>
       </ol>
   </details>
 
   <!--Nested Loops - Exercises-->
   <details>
-    <summary><strong>Exercises</strong> (<a href="" class="button"><b><i>Folder Preview</i></b></a>)</summary>
+    <summary><strong>Exercises</strong> (<a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/JavaScript/12-NestedLoops-Exercise" class="button"><b><i>Folder Preview</i></b></a>)</summary>
       <ol>
-        <li>Number Pyramid (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-        <li>Equal Sums Even Odd Position (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-        <li>Sum Prime Non Prime (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-        <li>Train The Trainers (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-        <li>Special Numbers (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-        <li>Cinema Tickets (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+        <li>Number Pyramid (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/JavaScript/12-NestedLoops-Exercise/01-NumberPyramid/numberPyramid.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+        <li>Equal Sums Even Odd Position (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/JavaScript/12-NestedLoops-Exercise/02-EqualSumsEvenOddPosition/equalSumsEvenOddPosition.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+        <li>Sum Prime Non Prime (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/JavaScript/12-NestedLoops-Exercise/03-SumPrimeNonPrime/sumPrimeNonPrime.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+        <li>Train The Trainers (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/JavaScript/12-NestedLoops-Exercise/04-TrainTheTrainers/trainTheTrainers.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+        <li>Special Numbers (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/JavaScript/12-NestedLoops-Exercise/05-SpecialNumbers/specialNumbers.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+        <li>Cinema Tickets (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/JavaScript/12-NestedLoops-Exercise/06-CinemaTickets/cinemaTickets.js" class="button"><b><i>Code Preview</i></b></a>)</li>
       </ol>
   </details>
   </td>
@@ -311,60 +311,60 @@
   <h3>First Steps in Coding</h3>
   <!--First Steps in Coding - More Exercises-->
   <details> 
-    <summary><strong>More Exercises (<a href="" class="button"><b><i>Folder Preview</i></b></a>)</strong></summary>
+    <summary><strong>More Exercises (<a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/PB-MoreExercises/JavaScript/01-FirstStepsInCoding-MoreExercises" class="button"><b><i>Folder Preview</i></b></a>)</strong></summary>
     <ol>
-      <li>Trapeziod Area (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Triangle Area (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Celsius to Fahrenheit (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Vegetable Market (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Training Lab (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Fishland (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>House Painting (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Circle Area and Perimeter (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Weather Forecast (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-      <li>Weather Forecast - Part 2 (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Trapeziod Area (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/01-FirstStepsInCoding-MoreExercises/01-TrapeziodArea/trapeziodArea.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Triangle Area (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/01-FirstStepsInCoding-MoreExercises/02-TriangleArea/triangleArea.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Celsius to Fahrenheit (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/01-FirstStepsInCoding-MoreExercises/03-CelsiusToFahrenheit/celsiusToFahrenheit.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Vegetable Market (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/01-FirstStepsInCoding-MoreExercises/04-VegetableMarket/vegetableMarket.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Training Lab (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/01-FirstStepsInCoding-MoreExercises/05-TrainingLab/trainingLab.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Fishland (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/01-FirstStepsInCoding-MoreExercises/06-Fishland/fishland.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>House Painting (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/01-FirstStepsInCoding-MoreExercises/07-HousePainting/housePainting.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Circle Area and Perimeter (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/01-FirstStepsInCoding-MoreExercises/08-CircleAreaAndPerimeter/circleAreaAndPerimeter.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Weather Forecast (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/01-FirstStepsInCoding-MoreExercises/09-WeatherForecast/weatherForecast.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+      <li>Weather Forecast - Part 2 (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/01-FirstStepsInCoding-MoreExercises/10-WeatherForecast-PartTwo/weatherForecastTwo.js" class="button"><b><i>Code Preview</i></b></a>)</li>
     </ol>
   </details>
 <!--Conditional Statements - More Exercises-->
 <h3>Conditional Statements</h3>
 <details>
-  <summary><strong>More Exercises</strong> (<a href="" class="button"><b><i>Folder Preview</i></b></a>)</summary>
+  <summary><strong>More Exercises</strong> (<a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/PB-MoreExercises/JavaScript/02-ConditionalStatements-MoreExercises" class="button"><b><i>Folder Preview</i></b></a>)</summary>
   <ol>
-    <li>Pipes in Pool (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-    <li>Sleepy Tom Cat (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-    <li>Harvest (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-    <li>Transport Price (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-    <li>Pets (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-    <li>Flower Shop (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-    <li>Fuel Tank (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-    <li>Fuel Tank - Part 2 (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+    <li>Pipes in Pool (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/02-ConditionalStatements-MoreExercises/01-PipesInPool/pipesInPool.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+    <li>Sleepy Tom Cat (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/02-ConditionalStatements-MoreExercises/02-SleepyTomCat/sleepyTomCat.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+    <li>Harvest (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/02-ConditionalStatements-MoreExercises/03-Harvest/harvest.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+    <li>Transport Price (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/02-ConditionalStatements-MoreExercises/04-TransportPrice/transportPrice.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+    <li>Pets (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/02-ConditionalStatements-MoreExercises/05-Pets/pets.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+    <li>Flower Shop (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/02-ConditionalStatements-MoreExercises/06-FlowerShop/flowerShop.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+    <li>Fuel Tank (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/02-ConditionalStatements-MoreExercises/07-FuelTank/fuelTank.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+    <li>Fuel Tank - Part 2 (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/02-ConditionalStatements-MoreExercises/08-FuelTank-PartTwo/fuelTankPartTwo.js" class="button"><b><i>Code Preview</i></b></a>)</li>
   </ol>
 </details>
 
 <!--Conditional Statements Advanced - More Exercises-->
 <h3>Conditional Statements Advanced</h3>
 <details>
-<summary><strong>More Exercises</strong> (<a href="" class="button"><b><i>Folder Preview</i></b></a>)</summary>
+<summary><strong>More Exercises</strong> (<a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises" class="button"><b><i>Folder Preview</i></b></a>)</summary>
 <ol>
-  <li>Match Tickets (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Bike Race (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Flowers (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Car To Go (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Vacation (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Truck Driver (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>School Camp (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Point on Rectangle Border (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Numbers from 1 to 10 (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
-  <li>Multiply by 2 (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Match Tickets (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises/01-MatchTickets/matchTickets.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Bike Race (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises/02-BikeRace/bikeRace.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Flowers (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises/03-Flowers/flowers.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Car To Go (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises/04-CarToGo/carToGo.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Vacation (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises/05-Vacation/vacation.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Truck Driver (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises/06-TruckDriver/truckDriver.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>School Camp (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises/07-SchoolCamp/schoolCamp.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Point on Rectangle Border (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises/08-PointOnRectangleBorder/pointOnRectangleBorder.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Numbers from 1 to 10 (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises/09-NumbersFromOneToTen/numbersFromOneToTen.js" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Multiply by 2 (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/03-ConditionalStatementsAdvanced-MoreExercises/10-MultiplyByTwo/multiplyByTwo.js" class="button"><b><i>Code Preview</i></b></a>)</li>
 </ol>
 </details>
 
 <!--For Loop - More Exercises-->
 <h3>For Loop</h3>
 <details>
-<summary><strong>More Exercises</strong> (<a href="" class="button"><b><i>Folder Preview</i></b></a>)</summary>
+<summary><strong>More Exercises</strong> (<a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/PB-MoreExercises/JavaScript/04-ForLoop-MoreExercises" class="button"><b><i>Folder Preview</i></b></a>)</summary>
 <ol>
-  <li>Back To The Past (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
+  <li>Back To The Past (<a href="https://github.com/IvanITD/SoftUni/blob/main/Programming-Basics/PB-MoreExercises/JavaScript/04-ForLoop-MoreExercises/01-BackToThePast/backToThePast.js" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Hospital (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Logistics (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>
   <li>Grades (<a href="" class="button"><b><i>Code Preview</i></b></a>)</li>

@@ -75,7 +75,7 @@ Here’s a quick overview of my progress in the **SoftUni** curriculum:
 <details>
 <summary><b>JavaScript Resolution</b></summary>
 <pre>
-│	├── Topic 1
+│	├── Topic 1 - <a href=""><b><i>Basic Syntax, Conditional Statements and Loops</i></b></a>
 │	├── Topic 2
 │	├── Topic 3
 │	├── Topic 4

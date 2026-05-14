@@ -1,94 +1,75 @@
-# SoftUni 2025 - Path to Becoming a Full-Stack Engineer 🚀
+# SoftUni 2025 — Path to Full-Stack Engineer
 
-Welcome to my **SoftUni** repository! This repository contains all the milestones, tasks, and solutions I will complete as part of my journey to becoming a **Full-Stack Engineer**. I’m following the curriculum at **SoftUni**, and this repository will reflect the knowledge and skills I acquire along the way.
+My journey through the **SoftUni** curriculum — course materials, exercises, and projects from Programming Basics all the way to Full-Stack Engineering.
 
-## 🛠️ Tools & Technologies Used
+## Course Progress
 
-Throughout my journey, I’ll be utilizing a wide range of tools and technologies to help me succeed:
+| Module | Status | Concepts Learned |
+| ------------------------------ | -------------- | ---------------------------------------------- |
+| **Programming Basics** | ✅ Completed | Variables, data types, conditionals, loops (for, while, nested) |
+| **Programming Fundamentals** | 🚧 In Progress | Basic syntax, conditional statements, loops |
+| **JS Advanced** | ❌ Not Started | — |
+| **Web Core** | ❌ Not Started | — |
+| **JS Back-End** | ❌ Not Started | — |
+| **React** | ❌ Not Started | — |
+| **DevOps for Developers** | ❌ Not Started | — |
 
-- **Programming Languages**: C#, and JavaScript <b>⚠️Pending Update⚠️</b>
-- **Development Tools**: Visual Studio, Visual Studio Code, Git, GitHub <b>⚠️Pending Update⚠️</b>
+## Repository Contents
+
+### Programming Basics
+
+<details>
+<summary><b>C#</b></summary>
+
+| # | Topic |
+| - | ----- |
+| 1 | First Steps in Coding — Lab |
+| 2 | First Steps in Coding — Exercise |
+| 3 | Conditional Statements — Lab |
+| 4 | Conditional Statements — Exercise |
+| 5 | Conditional Statements Advanced — Lab |
+| 6 | Conditional Statements Advanced — Exercise |
+| 7 | For Loop — Lab |
+| 8 | For Loop — Exercise |
+| 9 | While Loop — Lab |
+| 10 | While Loop — Exercise |
+| 11 | Nested Loops — Lab |
+| 12 | Nested Loops — Exercise |
+
+</details>
+
+<details>
+<summary><b>JavaScript</b></summary>
+
+| # | Topic |
+| - | ----- |
+| 1 | First Steps in Coding — Lab |
+| 2 | First Steps in Coding — Exercise |
+| 3 | Conditional Statements — Lab |
+| 4 | Conditional Statements — Exercise |
+| 5 | Conditional Statements Advanced — Lab |
+| 6 | Conditional Statements Advanced — Exercise |
+| 7 | For Loop — Lab |
+| 8 | For Loop — Exercise |
+| 9 | While Loop — Lab |
+| 10 | While Loop — Exercise |
+| 11 | Nested Loops — Lab |
+| 12 | Nested Loops — Exercise |
+
+</details>
+
+### Programming Fundamentals
+
+<details>
+<summary><b>JavaScript</b></summary>
+
+| # | Topic | Status |
+| - | ----- | ------ |
+| 1 | Basic Syntax, Conditional Statements and Loops | ✅ |
+| 2–10 | *(coming soon)* | 🚧 |
+
+</details>
 
 ---
 
-## 🏆 Course Progress
-
-Here’s a quick overview of my progress in the **SoftUni** curriculum:
-
-| Module                         | Status       | Concepts Learned                               |
-| ------------------------------ | ------------ | ---------------------------------------------- |
-| **Programming Basics**          | ✅ Completed | Intro to programming, variables, data types, loops, conditionals |
-| **Programming Fundamentals**    | 🚧 In Progress | -								               |
-| **JS Advanced**                 | ❌ Not Started | -									           |
-| **Web Core**                    | ❌ Not Started | -								               |
-| **JS Back-End**                 | ❌ Not Started | -								           	   |
-| **React**                		  | ❌ Not Started | -									           |
-| **DevOps for Developers**       | ❌ Not Started | -							                   |
-
----
-
-## 📜 Contents of This Repository
-
-
-## Programming Basics
-
-<details>
-<summary><b>C# Resolution</b></summary>
-<pre>
-│   ├── Topic 1 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/CSharp/01.%20First%20Steps%20In%20Coding%20-%20Lab"><b><i>First Steps in Coding - Lab</i></b></a>
-│   ├── Topic 2 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/CSharp/02.%20First%20Steps%20In%20Coding%20-%20Exercise"><b><i>First Steps in Coding - Exercise</i></b></a>
-│   ├── Topic 3 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/CSharp/03.%20Conditional%20Statements%20-%20Lab"><b><i>Conditional Statements - Lab</i></b></a>
-│   ├── Topic 4 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/CSharp/04.%20Conditional%20Statements%20-%20Exercise"><b><i>Conditional Statements - Exercise</i></b></a>
-│   ├── Topic 5 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/CSharp/05.%20Conditional%20Statements%20Advanced%20-%20Lab"><b><i>Conditional Statements Advanced - Lab</i></b></a>
-│   ├── Topic 6 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/CSharp/06.%20Conditional%20Statements%20Advanced%20-%20Exercise"><b><i>Conditional Statements Advanced - Exercise</i></b></a>
-│   ├── Topic 7 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/CSharp/07.%20For%20Loop%20-%20Lab"><b><i>For Loop - Lab</i></b></a>
-│   ├── Topic 8 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/CSharp/08.%20For%20Loop%20-%20Exercise"><b><i>For Loop - Exercise</i></b></a>
-│   ├── Topic 9 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/CSharp/09.%20While%20Loop%20-%20Lab"><b><i>While Loop - Lab</i></b></a>
-│   ├── Topic 10 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/CSharp/10.%20While%20Loop%20-%20Exercise"><b><i>While Loop - Exercise</i></b></a>
-│   ├── Topic 11 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/CSharp/11.%20Nested%20Loops%20-%20Lab"><b><i>Nested Loops - Lab</i></b></a>
-│   └── Topic 12 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/CSharp/12.%20Nested%20Loops%20-%20Exercise"><b><i>Nested Loops - Exercise</i></b></a>
-</pre>
-
-</details>
-
-<details>
-<summary><b>JavaScript Resolution</b></summary>
-<pre>
-│   ├── Topic 1 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/JavaScript/01-FirstStepsInCoding-Lab"><b><i>First Steps in Coding - Lab</i></b></a>
-│   ├── Topic 2 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/JavaScript/02-FirstStepsInCoding-Exercise"><b><i>First Steps in Coding - Exercise</i></b></a>
-│   ├── Topic 3 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/JavaScript/03-ConditionalStatements-Lab"><b><i>Conditional Statements - Lab</i></b></a>
-│   ├── Topic 4 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/JavaScript/04-ConditionalStatements-Exercise"><b><i>Conditional Statements - Exercise</i></b></a>
-│   ├── Topic 5 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/JavaScript/05-ConditionalStatementsAdvanced-Lab"><b><i>Conditional Statements Advanced - Lab</i></b></a>
-│   ├── Topic 6 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/JavaScript/06-ConditionalStatementsAdvanced-Exercise"><b><i>Conditional Statements Advanced - Exercise</i></b></a>
-│   ├── Topic 7 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/JavaScript/07-ForLoop-Lab"><b><i>For Loop - Lab</i></b></a>
-│   ├── Topic 8 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/JavaScript/08-ForLoop-Exercise"><b><i>For Loop - Exercise</i></b></a>
-│   ├── Topic 9 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/JavaScript/09-WhileLoop-Lab"><b><i>While Loop - Lab</i></b></a>
-│   ├── Topic 10 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/JavaScript/10-WhileLoop-Exercise"><b><i>While Loop - Exercise</i></b></a>
-│   ├── Topic 11 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/JavaScript/11-NestedLoops-Lab"><b><i>Nested Loops - Lab</i></b></a>
-│   └── Topic 12 - <a href="https://github.com/IvanITD/SoftUni/tree/main/Programming-Basics/JavaScript/12-NestedLoops-Exercise"><b><i>Nested Loops - Exercise</i></b></a>
-</pre>
-
-</details>
-
-## Programming Fundamentals
-
-<details>
-<summary><b>JavaScript Resolution</b></summary>
-<pre>
-│	├── Topic 1 - <a href=""><b><i>Basic Syntax, Conditional Statements and Loops</i></b></a>
-│	├── Topic 2
-│	├── Topic 3
-│	├── Topic 4
-│	├── Topic 5
-│	├── Topic 6
-│	├── Topic 7
-...
-	</pre>
-</details>
-
-<h3>🌟 Get in Touch</h3>
-<p>If you have any questions or suggestions, feel free to reach out via:</p>
-<ul>
-	<li><b>GitHub:</b> <a href="https://github.com/IvanITD" class="button">IvanITD</a></li>
-	<li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/ivanivanovofficial/" class="button">Ivan Ivanov</a></li>
-</ul>
+Built by [Ivan Ivanov](https://github.com/IvanITD)

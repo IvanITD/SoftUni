@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CourierExpress")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c27dcc7a3ae35483b4efdc1fa80d3d7575b5f76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8861ba7edc193e3eaafcd87560ab882f18b98d5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CourierExpress")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CourierExpress")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

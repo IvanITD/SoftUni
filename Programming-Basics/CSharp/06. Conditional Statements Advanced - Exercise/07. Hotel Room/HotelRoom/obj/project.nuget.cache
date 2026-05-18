@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "MJ4Wb8LoNzo=",
+  "dgSpecHash": "POqcFRSjpi4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\CSharp\\06. Conditional Statements Advanced - Exercise\\07. Hotel Room\\HotelRoom\\HotelRoom.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/CSharp/06. Conditional Statements Advanced - Exercise/07. Hotel Room/HotelRoom/HotelRoom.csproj",
+  "expectedPackageFiles": [
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.12/microsoft.netcore.app.host.osx-arm64.9.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

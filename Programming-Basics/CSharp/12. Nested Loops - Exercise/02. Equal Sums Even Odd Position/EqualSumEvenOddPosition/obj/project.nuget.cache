@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1bCMkMSmeCE=",
+  "dgSpecHash": "C8K5a5XDZGk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\CSharp\\12. Nested Loops - Exercise\\02. Equal Sums Even Odd Position\\EqualSumEvenOddPosition\\EqualSumEvenOddPosition.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/CSharp/12. Nested Loops - Exercise/02. Equal Sums Even Odd Position/EqualSumEvenOddPosition/EqualSumEvenOddPosition.csproj",
+  "expectedPackageFiles": [
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.12/microsoft.netcore.app.host.osx-arm64.9.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

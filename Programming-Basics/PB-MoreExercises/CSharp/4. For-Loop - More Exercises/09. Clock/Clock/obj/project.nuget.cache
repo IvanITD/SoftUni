@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "VFuR97Y4Iew=",
+  "dgSpecHash": "u8mNKEkPT8Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\PB-MoreExercises\\CSharp\\4. For-Loop - More Exercises\\09. Clock\\Clock\\Clock.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/PB-MoreExercises/CSharp/4. For-Loop - More Exercises/09. Clock/Clock/Clock.csproj",
+  "expectedPackageFiles": [
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.12/microsoft.netcore.app.host.osx-arm64.9.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

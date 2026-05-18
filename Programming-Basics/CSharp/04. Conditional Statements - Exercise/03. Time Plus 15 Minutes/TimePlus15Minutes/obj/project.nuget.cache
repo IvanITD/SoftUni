@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "yAC5yDVpQhg=",
+  "dgSpecHash": "YP6dW5Dy3Pc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\CSharp\\04. Conditional Statements - Exercise\\03. Time Plus 15 Minutes\\TimePlus15Minutes\\TimePlus15Minutes.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/CSharp/04. Conditional Statements - Exercise/03. Time Plus 15 Minutes/TimePlus15Minutes/TimePlus15Minutes.csproj",
+  "expectedPackageFiles": [
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/8.0.23/microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.23/microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.23/microsoft.netcore.app.host.osx-arm64.8.0.23.nupkg.sha512"
+  ],
   "logs": []
 }

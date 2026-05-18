@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "B6wG6ucM564=",
+  "dgSpecHash": "s82D1FxQCa4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\CSharp\\03. Conditional Statements - Lab\\01. Excellent Result\\ExcellentResult\\ExcellentResult.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/CSharp/03. Conditional Statements - Lab/01. Excellent Result/ExcellentResult/ExcellentResult.csproj",
+  "expectedPackageFiles": [
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/8.0.23/microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.23/microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.23/microsoft.netcore.app.host.osx-arm64.8.0.23.nupkg.sha512"
+  ],
   "logs": []
 }

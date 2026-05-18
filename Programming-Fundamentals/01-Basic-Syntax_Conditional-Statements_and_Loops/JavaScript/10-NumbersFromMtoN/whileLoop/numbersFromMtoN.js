@@ -1,4 +1,4 @@
-function NumbersFromNtoOne(m, n) {
+function NumbersFromMtoN(m, n) {
     // Print all numbers from M to N
     let i = m;
     while (i >= n) {

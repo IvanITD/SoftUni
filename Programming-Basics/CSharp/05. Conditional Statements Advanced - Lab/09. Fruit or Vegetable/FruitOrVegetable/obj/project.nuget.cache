@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "h5c9Ennshk0=",
+  "dgSpecHash": "1/Vd9g6lNP8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\CSharp\\05. Conditional Statements Advanced - Lab\\09. Fruit or Vegetable\\FruitOrVegetable\\FruitOrVegetable.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/CSharp/05. Conditional Statements Advanced - Lab/09. Fruit or Vegetable/FruitOrVegetable/FruitOrVegetable.csproj",
+  "expectedPackageFiles": [
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.12/microsoft.netcore.app.host.osx-arm64.9.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "e66rDX+1CeU=",
+  "dgSpecHash": "DqBi17DeanM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\PB-MoreExercises\\CSharp\\5. While-Loop - More Exercises\\05. Average Number\\AverageNumber\\AverageNumber.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/PB-MoreExercises/CSharp/5. While-Loop - More Exercises/05. Average Number/AverageNumber/AverageNumber.csproj",
+  "expectedPackageFiles": [
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.12/microsoft.netcore.app.host.osx-arm64.9.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

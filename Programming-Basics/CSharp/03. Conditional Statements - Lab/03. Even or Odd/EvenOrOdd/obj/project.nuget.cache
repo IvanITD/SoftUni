@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "RCFnQfetsL8=",
+  "dgSpecHash": "8rCOMCRN0K0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\CSharp\\03. Conditional Statements - Lab\\03. Even or Odd\\EvenOrOdd\\EvenOrOdd.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/CSharp/03. Conditional Statements - Lab/03. Even or Odd/EvenOrOdd/EvenOrOdd.csproj",
+  "expectedPackageFiles": [
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/8.0.23/microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.23/microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.23/microsoft.netcore.app.host.osx-arm64.8.0.23.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -8,24 +8,25 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ivan Ivanov\\.nuget\\packages\\": {}
+    "/Users/astrosspace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\CSharp\\01. First Steps In Coding - Lab\\02. Nums 1...10\\Nums1to10\\Nums1to10.csproj",
+      "projectUniqueName": "/Users/astrosspace/repos/SoftUni/Programming-Basics/CSharp/01. First Steps In Coding - Lab/02. Nums 1...10/Nums1to10/Nums1to10.csproj",
       "projectName": "Nums1to10",
-      "projectPath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\CSharp\\01. First Steps In Coding - Lab\\02. Nums 1...10\\Nums1to10\\Nums1to10.csproj",
-      "packagesPath": "C:\\Users\\Ivan Ivanov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\CSharp\\01. First Steps In Coding - Lab\\02. Nums 1...10\\Nums1to10\\obj\\",
+      "projectPath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/CSharp/01. First Steps In Coding - Lab/02. Nums 1...10/Nums1to10/Nums1to10.csproj",
+      "packagesPath": "/Users/astrosspace/.nuget/packages/",
+      "outputPath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/CSharp/01. First Steps In Coding - Lab/02. Nums 1...10/Nums1to10/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ivan Ivanov\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/astrosspace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -44,7 +45,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -60,12 +61,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.23, 8.0.23]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[8.0.23, 8.0.23]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.23, 8.0.23]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

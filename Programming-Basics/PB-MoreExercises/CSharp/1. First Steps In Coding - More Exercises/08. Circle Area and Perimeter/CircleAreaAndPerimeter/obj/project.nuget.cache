@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7yr12AV12pA=",
+  "dgSpecHash": "7Hv6NkHGLkU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\PB-MoreExercises\\CSharp\\1. First Steps In Coding - More Exercises\\08. Circle Area and Perimeter\\CircleAreaAndPerimeter\\CircleAreaAndPerimeter.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/PB-MoreExercises/CSharp/1. First Steps In Coding - More Exercises/08. Circle Area and Perimeter/CircleAreaAndPerimeter/CircleAreaAndPerimeter.csproj",
+  "expectedPackageFiles": [
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.12/microsoft.netcore.app.host.osx-arm64.9.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

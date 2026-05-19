@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Ax2A7fDln9o=",
+  "dgSpecHash": "n8eKF0ZZR0Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\CSharp\\02. First Steps In Coding - Exercise\\02. Radians to Degrees\\RadiansToDegrees\\RadiansToDegrees.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/CSharp/02. First Steps In Coding - Exercise/02. Radians to Degrees/RadiansToDegrees/RadiansToDegrees.csproj",
+  "expectedPackageFiles": [
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/8.0.23/microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.23/microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.23/microsoft.netcore.app.host.osx-arm64.8.0.23.nupkg.sha512"
+  ],
   "logs": []
 }

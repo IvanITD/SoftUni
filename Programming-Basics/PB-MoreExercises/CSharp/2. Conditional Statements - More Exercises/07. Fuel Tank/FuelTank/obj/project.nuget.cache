@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Yi3ES6e+dWE=",
+  "dgSpecHash": "MSEP2zOfmu4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\PB-MoreExercises\\CSharp\\2. Conditional Statements - More Exercises\\07. Fuel Tank\\FuelTank\\FuelTank.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/PB-MoreExercises/CSharp/2. Conditional Statements - More Exercises/07. Fuel Tank/FuelTank/FuelTank.csproj",
+  "expectedPackageFiles": [
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
+    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.12/microsoft.netcore.app.host.osx-arm64.9.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

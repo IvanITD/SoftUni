@@ -8,25 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/astrosspace/.nuget/packages/": {}
+    "C:\\Users\\Ivan Ivanov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/astrosspace/repos/SoftUni/Programming-Basics/PB-MoreExercises/CSharp/6. Nested Loops - More Exercises/03. Lucky Numbers/LuckyNumbers/LuckyNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\PB-MoreExercises\\CSharp\\6. Nested Loops - More Exercises\\03. Lucky Numbers\\LuckyNumbers\\LuckyNumbers.csproj",
       "projectName": "LuckyNumbers",
-      "projectPath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/PB-MoreExercises/CSharp/6. Nested Loops - More Exercises/03. Lucky Numbers/LuckyNumbers/LuckyNumbers.csproj",
-      "packagesPath": "/Users/astrosspace/.nuget/packages/",
-      "outputPath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/PB-MoreExercises/CSharp/6. Nested Loops - More Exercises/03. Lucky Numbers/LuckyNumbers/obj/",
+      "projectPath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\PB-MoreExercises\\CSharp\\6. Nested Loops - More Exercises\\03. Lucky Numbers\\LuckyNumbers\\LuckyNumbers.csproj",
+      "packagesPath": "C:\\Users\\Ivan Ivanov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\PB-MoreExercises\\CSharp\\6. Nested Loops - More Exercises\\03. Lucky Numbers\\LuckyNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/astrosspace/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Ivan Ivanov\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -61,26 +60,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[9.0.12, 9.0.12]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.osx-arm64",
-            "version": "[9.0.12, 9.0.12]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[9.0.12, 9.0.12]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

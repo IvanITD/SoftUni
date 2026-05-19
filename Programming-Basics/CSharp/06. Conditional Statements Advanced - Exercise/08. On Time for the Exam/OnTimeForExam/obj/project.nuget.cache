@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w2XDx+Nb70k=",
+  "dgSpecHash": "D/PjtL1K7A8=",
   "success": true,
-  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/CSharp/06. Conditional Statements Advanced - Exercise/08. On Time for the Exam/OnTimeForExam/OnTimeForExam.csproj",
-  "expectedPackageFiles": [
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.12/microsoft.netcore.app.host.osx-arm64.9.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\CSharp\\06. Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\OnTimeForExam\\OnTimeForExam.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

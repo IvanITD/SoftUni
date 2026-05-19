@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8GxDwpg+4sY=",
+  "dgSpecHash": "lA9D6HxoBP8=",
   "success": true,
-  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/CSharp/03. Conditional Statements - Lab/06. Speed Info/SpeedInfo/SpeedInfo.csproj",
-  "expectedPackageFiles": [
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/8.0.23/microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.23/microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.23/microsoft.netcore.app.host.osx-arm64.8.0.23.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\CSharp\\03. Conditional Statements - Lab\\06. Speed Info\\SpeedInfo\\SpeedInfo.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

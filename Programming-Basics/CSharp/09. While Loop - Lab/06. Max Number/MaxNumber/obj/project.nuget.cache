@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4N0lXOQu+/I=",
+  "dgSpecHash": "MqG8ICJ5wcE=",
   "success": true,
-  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/CSharp/09. While Loop - Lab/06. Max Number/MaxNumber/MaxNumber.csproj",
-  "expectedPackageFiles": [
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.12/microsoft.netcore.app.host.osx-arm64.9.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\CSharp\\09. While Loop - Lab\\06. Max Number\\MaxNumber\\MaxNumber.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

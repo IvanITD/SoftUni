@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p8qDjuKT6ZQ=",
+  "dgSpecHash": "hk8le3IUxQU=",
   "success": true,
-  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/PB-MainExams/CSharp-Exam/2. Second CSharp Exam/01. Excursion/Excursion/Excursion.csproj",
-  "expectedPackageFiles": [
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.12/microsoft.netcore.app.host.osx-arm64.9.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\PB-MainExams\\CSharp-Exam\\2. Second CSharp Exam\\01. Excursion\\Excursion\\Excursion.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

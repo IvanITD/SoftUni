@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zbM95ml4GGg=",
+  "dgSpecHash": "8+m6xHsSIfE=",
   "success": true,
-  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/CSharp/05. Conditional Statements Advanced - Lab/08. Cinema Ticket/CinemaTicket/CinemaTicket.csproj",
-  "expectedPackageFiles": [
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.12/microsoft.netcore.app.host.osx-arm64.9.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\CSharp\\05. Conditional Statements Advanced - Lab\\08. Cinema Ticket\\CinemaTicket\\CinemaTicket.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

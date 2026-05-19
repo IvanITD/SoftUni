@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R+Mz0tGmFj8=",
+  "dgSpecHash": "dbdG4qzYQO8=",
   "success": true,
-  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/CSharp/03. Conditional Statements - Lab/07. Area of Figures/AreaOfFigures/AreaOfFigures.csproj",
-  "expectedPackageFiles": [
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/8.0.23/microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.23/microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.23/microsoft.netcore.app.host.osx-arm64.8.0.23.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\CSharp\\03. Conditional Statements - Lab\\07. Area of Figures\\AreaOfFigures\\AreaOfFigures.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

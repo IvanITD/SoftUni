@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Uf5VrTAZYw=",
+  "dgSpecHash": "WtTJ+IuvIlk=",
   "success": true,
-  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/PB-MoreExercises/CSharp/4. For-Loop - More Exercises/11. Odd or Even Position/OddOrEvenPosition/OddOrEvenPosition.csproj",
-  "expectedPackageFiles": [
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.12/microsoft.netcore.app.host.osx-arm64.9.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\PB-MoreExercises\\CSharp\\4. For-Loop - More Exercises\\11. Odd or Even Position\\OddOrEvenPosition\\OddOrEvenPosition.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

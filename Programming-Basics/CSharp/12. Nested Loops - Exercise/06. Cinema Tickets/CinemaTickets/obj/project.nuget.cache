@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z72gz09xFlI=",
+  "dgSpecHash": "2fQTB5C/9mI=",
   "success": true,
-  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/CSharp/12. Nested Loops - Exercise/06. Cinema Tickets/CinemaTickets/CinemaTickets.csproj",
-  "expectedPackageFiles": [
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.12/microsoft.netcore.app.host.osx-arm64.9.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\CSharp\\12. Nested Loops - Exercise\\06. Cinema Tickets\\CinemaTickets\\CinemaTickets.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

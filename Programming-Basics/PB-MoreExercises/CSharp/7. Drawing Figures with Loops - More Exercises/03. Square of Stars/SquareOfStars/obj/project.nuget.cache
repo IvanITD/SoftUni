@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pb0w+LhtoS8=",
+  "dgSpecHash": "4I8qd6Ba92w=",
   "success": true,
-  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/PB-MoreExercises/CSharp/7. Drawing Figures with Loops - More Exercises/03. Square of Stars/SquareOfStars/SquareOfStars.csproj",
-  "expectedPackageFiles": [
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.12/microsoft.netcore.app.host.osx-arm64.9.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\PB-MoreExercises\\CSharp\\7. Drawing Figures with Loops - More Exercises\\03. Square of Stars\\SquareOfStars\\SquareOfStars.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

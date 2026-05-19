@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9rHTcfofB9Y=",
+  "dgSpecHash": "273Ze2nL2LM=",
   "success": true,
-  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/PB-MoreExercises/CSharp/7. Drawing Figures with Loops - More Exercises/02. Rectangle of N x N Stars/RectangleNxNStars/RectangleNxNStars.csproj",
-  "expectedPackageFiles": [
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.12/microsoft.netcore.app.host.osx-arm64.9.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\PB-MoreExercises\\CSharp\\7. Drawing Figures with Loops - More Exercises\\02. Rectangle of N x N Stars\\RectangleNxNStars\\RectangleNxNStars.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

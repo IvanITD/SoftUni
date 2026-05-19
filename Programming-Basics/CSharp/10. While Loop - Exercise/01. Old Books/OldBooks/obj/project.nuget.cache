@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oMXOfa4ByTw=",
+  "dgSpecHash": "hmnUB5S4hJ8=",
   "success": true,
-  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/CSharp/10. While Loop - Exercise/01. Old Books/OldBooks/OldBooks.csproj",
-  "expectedPackageFiles": [
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.12/microsoft.netcore.app.host.osx-arm64.9.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\CSharp\\10. While Loop - Exercise\\01. Old Books\\OldBooks\\OldBooks.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

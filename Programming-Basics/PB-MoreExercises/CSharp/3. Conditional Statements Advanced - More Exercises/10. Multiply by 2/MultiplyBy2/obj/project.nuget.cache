@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J+uC2co2VnY=",
+  "dgSpecHash": "4FIb/L5EZzs=",
   "success": true,
-  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/PB-MoreExercises/CSharp/3. Conditional Statements Advanced - More Exercises/10. Multiply by 2/MultiplyBy2/MultiplyBy2.csproj",
-  "expectedPackageFiles": [
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/9.0.12/microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.12/microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.12/microsoft.netcore.app.host.osx-arm64.9.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\PB-MoreExercises\\CSharp\\3. Conditional Statements Advanced - More Exercises\\10. Multiply by 2\\MultiplyBy2\\MultiplyBy2.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

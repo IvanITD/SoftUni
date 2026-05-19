@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b9WA/6w9WTo=",
+  "dgSpecHash": "M9pwJCtSnrs=",
   "success": true,
-  "projectFilePath": "/Users/astrosspace/repos/SoftUni/Programming-Basics/CSharp/04. Conditional Statements - Exercise/04. Toy Shop/ToyShop/ToyShop.csproj",
-  "expectedPackageFiles": [
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.ref/8.0.23/microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.23/microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512",
-    "/Users/astrosspace/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.23/microsoft.netcore.app.host.osx-arm64.8.0.23.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Ivan Ivanov\\repos\\SoftUni\\Programming-Basics\\CSharp\\04. Conditional Statements - Exercise\\04. Toy Shop\\ToyShop\\ToyShop.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

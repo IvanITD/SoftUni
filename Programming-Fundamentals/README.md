@@ -38,7 +38,7 @@
     <tr>
       <td>Git & GitHub</td>
       <td>Version Control</td>
-      <td>🚧 In Progress</td>
+      <td>✅ Completed</td>
     </tr>
     <tr>
       <td>Data Types and Variables</td>

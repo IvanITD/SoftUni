@@ -1,10 +1,11 @@
 function SpecialNumbers(number) {
-    let sum = 0;
-    
     for (let i = 1; i <= number; i++) {
-        sum += i;
-
-        if (i === 5 || i === 7 || i === 14) {
+        let sum = 0;
+        let numToString = i.toString();
+        for (let j = 0; j < numToString.length; j++) {
+            sum += Number(numToString[j]);
+        }
+        if (sum === 5 || sum === 7 || sum === 11) {
             console.log(`${i} -> True`);
         } else {
             console.log(`${i} -> False`);

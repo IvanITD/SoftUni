@@ -42,7 +42,12 @@
     </tr>
     <tr>
       <td>Data Types and Variables</td>
-      <td>let vs. var | Strings | Numbers | Booleans | Typeof Operator | Undefined and Null</td>
+      <td>Lab</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>Data Types and Variables</td>
+      <td>Exercise</td>
       <td>🚧 In Progress</td>
     </tr>
   </tbody>

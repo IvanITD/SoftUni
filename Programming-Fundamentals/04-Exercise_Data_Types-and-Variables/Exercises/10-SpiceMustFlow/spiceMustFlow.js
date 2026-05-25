@@ -1,3 +1,3 @@
-function SpiceMustFlow() {
+function SpiceMustFlow(startingYield) {
     
 }

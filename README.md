@@ -30,7 +30,7 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 | # | Module | Status | Languages |
 |---|--------|--------|-----------|
 | 1 | **Programming Basics** | ✅ Completed | C# & JavaScript |
-| 2 | **Programming Fundamentals** | 🚧 In Progress | JavaScript |
+| 2 | **Programming Fundamentals** | ✅ Completed | JavaScript |
 | 3 | **JS Advanced** | ❌ Not Started | JavaScript |
 | 4 | **Web Core** | ❌ Not Started | HTML, CSS, TypeScript |
 | 5 | **JS Back-End** | ❌ Not Started | PostgreSQL, Node.js |
@@ -68,7 +68,7 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 | # | Topic | Status |
 |---|-------|--------|
 | 1 | Basic Syntax, Conditional Statements and Loops | ✅ Completed |
-| 2 | Data Types and Variables | 🚧 In Progress |
+| 2 | Data Types and Variables | ✅ Completed |
 
 <p align="right"><a href="./Programming-Fundamentals">→ Full details</a></p>
 </details>

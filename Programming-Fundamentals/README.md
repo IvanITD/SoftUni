@@ -58,7 +58,7 @@
     <tr>
       <td>HTTP Basics</td>
       <td>Lab</td>
-      <td>🚧 Pending</td>
+      <td>✅ Completed</td>
     </tr>
   </tbody>
 </table>
@@ -144,6 +144,59 @@
     <tr>
       <td>7</td>
       <td>Triangle Area</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<h3>📋 HTTP Basics — Lab</h3>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Topic</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>GET vs POST — HTML form example (<code>example.html</code>)</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Postman + apipheny — GET requests</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Postman POST — <code>https://postman-echo.com/post</code> with JSON body</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>HTTP Response structure (status line, headers, body)</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Status codes via Dev Tools (SoftUni website)</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Common HTTP status codes (1xx–5xx)</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>MIME types</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>URLs structure and components</td>
       <td>✅</td>
     </tr>
   </tbody>

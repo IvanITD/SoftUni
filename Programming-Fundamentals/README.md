@@ -63,7 +63,7 @@
     <tr>
       <td>Arrays</td>
       <td>Lab</td>
-      <td>🔄 In Progress</td>
+      <td>✅ Completed</td>
     </tr>
     <tr>
       <td>Arrays</td>

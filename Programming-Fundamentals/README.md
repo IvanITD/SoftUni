@@ -60,6 +60,21 @@
       <td>Lab</td>
       <td>✅ Completed</td>
     </tr>
+    <tr>
+      <td>Arrays</td>
+      <td>Lab</td>
+      <td>⏳ Pending</td>
+    </tr>
+    <tr>
+      <td>Arrays</td>
+      <td>Exercise</td>
+      <td>⏳ Pending</td>
+    </tr>
+    <tr>
+      <td>Arrays</td>
+      <td>More Exercises</td>
+      <td>⏳ Pending</td>
+    </tr>
   </tbody>
 </table>
 <hr>

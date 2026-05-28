@@ -63,7 +63,7 @@
     <tr>
       <td>Arrays</td>
       <td>Lab</td>
-      <td>⏳ Pending</td>
+      <td>🔄 In Progress</td>
     </tr>
     <tr>
       <td>Arrays</td>

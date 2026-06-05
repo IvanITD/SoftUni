@@ -68,12 +68,12 @@
     <tr>
       <td>Arrays</td>
       <td>Exercise</td>
-      <td>⏳ Pending</td>
+      <td>✅ Completed</td>
     </tr>
     <tr>
       <td>Arrays</td>
       <td>More Exercises</td>
-      <td>⏳ Pending</td>
+      <td>🔄 In Progress</td>
     </tr>
   </tbody>
 </table>
@@ -213,6 +213,64 @@
       <td>8</td>
       <td>URLs structure and components</td>
       <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<h3>📋 Arrays — More Exercises</h3>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Print N-th Element</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Add and Remove</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Rotate Array</td>
+      <td>⏳</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Non-Decreasing Subset</td>
+      <td>⏳</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Tseam Account</td>
+      <td>⏳</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Magic Matrices</td>
+      <td>⏳</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Spiral Matrix</td>
+      <td>⏳</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Diagonal Attack</td>
+      <td>⏳</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Orbit</td>
+      <td>⏳</td>
     </tr>
   </tbody>
 </table>

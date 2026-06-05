@@ -73,7 +73,7 @@
     <tr>
       <td>Arrays</td>
       <td>More Exercises</td>
-      <td>🔄 In Progress</td>
+      <td>✅ Completed</td>
     </tr>
   </tbody>
 </table>
@@ -240,37 +240,37 @@
     <tr>
       <td>3</td>
       <td>Rotate Array</td>
-      <td>⏳</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Non-Decreasing Subset</td>
-      <td>⏳</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Tseam Account</td>
-      <td>⏳</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Magic Matrices</td>
-      <td>⏳</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>7</td>
       <td>Spiral Matrix</td>
-      <td>⏳</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>8</td>
       <td>Diagonal Attack</td>
-      <td>⏳</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Orbit</td>
-      <td>⏳</td>
+      <td>✅</td>
     </tr>
   </tbody>
 </table>

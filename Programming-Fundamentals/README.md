@@ -48,17 +48,7 @@
     <tr>
       <td>Data Types and Variables</td>
       <td>Exercise</td>
-      <td>✅ Completed</td>
-    </tr>
-    <tr>
-      <td>Data Types and Variables</td>
-      <td>More Exercises</td>
-      <td>✅ Completed</td>
-    </tr>
-    <tr>
-      <td>HTTP Basics</td>
-      <td>Lab</td>
-      <td>🚧 Pending</td>
+      <td>🚧 In Progress</td>
     </tr>
   </tbody>
 </table>
@@ -96,54 +86,6 @@
     <tr>
       <td>5</td>
       <td>Distance Between Points</td>
-      <td>✅</td>
-    </tr>
-  </tbody>
-</table>
-<hr>
-<h3>📋 Data Types and Variables — More Exercises</h3>
-<table border="1">
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>Task</th>
-      <th>Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>Digits with Words</td>
-      <td>✅</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Prime Number Checker</td>
-      <td>✅</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>Cone</td>
-      <td>✅</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Biggest of 3 Numbers</td>
-      <td>✅</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Binary to Decimal</td>
-      <td>✅</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>Chess Board</td>
-      <td>✅</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>Triangle Area</td>
       <td>✅</td>
     </tr>
   </tbody>

@@ -66,9 +66,13 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 <summary><b>📗 Programming Fundamentals</b> <i>— JavaScript</i></summary>
 
 | # | Topic | Status |
-|---|-------|--------|
+|--|-------|--------|
 | 1 | Basic Syntax, Conditional Statements and Loops | ✅ Completed |
-| 2 | Data Types and Variables | ✅ Completed |
+| 2 | Git & GitHub | ✅ Completed |
+| 3 | Data Types and Variables | ✅ Completed |
+| 4 | HTTP Basics | ✅ Completed |
+| 5 | Arrays | ✅ Completed |
+| 6 | HTML & CSS Basics | ✅ Completed |
 
 <p align="right"><a href="./Programming-Fundamentals">→ Full details</a></p>
 </details>

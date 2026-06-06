@@ -48,7 +48,37 @@
     <tr>
       <td>Data Types and Variables</td>
       <td>Exercise</td>
-      <td>🚧 In Progress</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>Data Types and Variables</td>
+      <td>More Exercises</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>HTTP Basics</td>
+      <td>Lab</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>Arrays</td>
+      <td>Lab</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>Arrays</td>
+      <td>Exercise</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>Arrays</td>
+      <td>More Exercises</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>HTML & CSS Basics</td>
+      <td>Lab</td>
+      <td>✅ Completed</td>
     </tr>
   </tbody>
 </table>
@@ -90,6 +120,222 @@
     </tr>
   </tbody>
 </table>
+<hr>
+<h3>📋 Data Types and Variables — More Exercises</h3>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Digits with Words</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Prime Number Checker</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Cone</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Biggest of 3 Numbers</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Binary to Decimal</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Chess Board</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Triangle Area</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<h3>📋 HTTP Basics — Lab</h3>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Topic</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>GET vs POST — HTML form example (<code>example.html</code>)</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Postman + apipheny — GET requests</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Postman POST — <code>https://postman-echo.com/post</code> with JSON body</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>HTTP Response structure (status line, headers, body)</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Status codes via Dev Tools (SoftUni website)</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Common HTTP status codes (1xx–5xx)</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>MIME types</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>URLs structure and components</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<h3>📋 Arrays — More Exercises</h3>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Print N-th Element</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Add and Remove</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Rotate Array</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Non-Decreasing Subset</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Tseam Account</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Magic Matrices</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Spiral Matrix</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Diagonal Attack</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Orbit</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<h3>📋 HTML & CSS Basics — Lab</h3>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Welcome to HTML</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>SoftUni Logo</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Fruits</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>HTML Lists</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Wiki Page</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Color Blocks</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+
+<details>
+<summary><b>📸 Preview — HTML & CSS Basics Lab</b></summary>
+<br>
+
+| Task | Preview |
+|------|---------|
+| Welcome to HTML | ![welcome](08-HTML_and_CSS_Basics/01-Welcome%20to%20HTML/screenshot.png) |
+| Fruits | ![fruits](08-HTML_and_CSS_Basics/03-Fruits/screenshot.png) |
+| HTML Lists | ![lists](08-HTML_and_CSS_Basics/03-HTML%20Lists/screenshot.png) |
+| Wiki Page | ![wiki](08-HTML_and_CSS_Basics/04-Wiki%20Page/screenshot.png) |
+| Color Blocks | ![color](08-HTML_and_CSS_Basics/05-Color%20Blocks/screenshot.png) |
+
+</details>
 <hr>
 <h3>🌟 Get in Touch</h3>
 <p>If you have any questions, feedback, or suggestions, feel free to reach out to me via:</p>

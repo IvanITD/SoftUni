@@ -75,6 +75,11 @@
       <td>More Exercises</td>
       <td>✅ Completed</td>
     </tr>
+    <tr>
+      <td>HTML & CSS Basics</td>
+      <td>Lab</td>
+      <td>✅ Completed</td>
+    </tr>
   </tbody>
 </table>
 <hr>
@@ -274,6 +279,63 @@
     </tr>
   </tbody>
 </table>
+<hr>
+<h3>📋 HTML & CSS Basics — Lab</h3>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Welcome to HTML</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>SoftUni Logo</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Fruits</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>HTML Lists</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Wiki Page</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Color Blocks</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+
+<details>
+<summary><b>📸 Preview — HTML & CSS Basics Lab</b></summary>
+<br>
+
+| Task | Preview |
+|------|---------|
+| Welcome to HTML | ![welcome](08-HTML_and_CSS_Basics/01-Welcome%20to%20HTML/screenshot.png) |
+| Fruits | ![fruits](08-HTML_and_CSS_Basics/03-Fruits/screenshot.png) |
+| HTML Lists | ![lists](08-HTML_and_CSS_Basics/03-HTML%20Lists/screenshot.png) |
+| Wiki Page | ![wiki](08-HTML_and_CSS_Basics/04-Wiki%20Page/screenshot.png) |
+| Color Blocks | ![color](08-HTML_and_CSS_Basics/05-Color%20Blocks/screenshot.png) |
+
+</details>
 <hr>
 <h3>🌟 Get in Touch</h3>
 <p>If you have any questions, feedback, or suggestions, feel free to reach out to me via:</p>

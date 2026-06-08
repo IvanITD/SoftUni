@@ -1,4 +1,4 @@
-function LowerToUpper(char) {
+function lowerToUpper(char) {
     let upperChar = char.toUpperCase();
 
     if (char === upperChar) {
@@ -9,5 +9,5 @@ function LowerToUpper(char) {
     }
 }
 
-LowerToUpper('L');
-LowerToUpper('f');
+lowerToUpper('L');
+lowerToUpper('f');

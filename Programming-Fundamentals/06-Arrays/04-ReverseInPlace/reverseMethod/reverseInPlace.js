@@ -1,4 +1,4 @@
-function ReverseInPlace(arr) {
+function reverseInPlace(arr) {
     arr = arr.reverse();
     arr = arr.join(' ');
 
@@ -6,6 +6,6 @@ function ReverseInPlace(arr) {
 
 }
 
-ReverseInPlace(['a', 'b', 'c', 'd', 'e']);
-ReverseInPlace(['abc', 'def', 'hig', 'klm', 'nop']);
-ReverseInPlace(['33', '123', '0', 'dd']);
+reverseInPlace(['a', 'b', 'c', 'd', 'e']);
+reverseInPlace(['abc', 'def', 'hig', 'klm', 'nop']);
+reverseInPlace(['33', '123', '0', 'dd']);

@@ -1,4 +1,4 @@
-function AmazingNumber(num) {
+function amazingNumber(num) {
     let numAsString = String(num);
 
     let sum = 0;
@@ -14,5 +14,5 @@ function AmazingNumber(num) {
     }
 }
 
-AmazingNumber(1233);
-AmazingNumber(999);
+amazingNumber(1233);
+amazingNumber(999);

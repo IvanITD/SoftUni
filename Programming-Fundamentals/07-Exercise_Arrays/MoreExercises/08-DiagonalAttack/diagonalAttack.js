@@ -1,4 +1,4 @@
-function DiagonalAttack(stringArr) {
+function diagonalAttack(stringArr) {
     let matrix = [];
     for (let i = 0; i < stringArr.length; i++) {
         matrix.push(stringArr[i].split(' ').map(Number));
@@ -28,5 +28,5 @@ function DiagonalAttack(stringArr) {
     }
 }
 
-DiagonalAttack(['5 3 12 3 1', '11 4 23 2 5', '101 12 3 21 10', '1 4 5 2 2', '5 22 33 11 1']);
-DiagonalAttack(['1 1 1', '1 1 1', '1 1 0']);
+diagonalAttack(['5 3 12 3 1', '11 4 23 2 5', '101 12 3 21 10', '1 4 5 2 2', '5 22 33 11 1']);
+diagonalAttack(['1 1 1', '1 1 1', '1 1 0']);

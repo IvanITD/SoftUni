@@ -1,4 +1,4 @@
-function ConvertDistance(meters) {
+function convertDistance(meters) {
     let kilometers = meters / 1000;
     let miles = kilometers * 0.621371;
 
@@ -6,5 +6,5 @@ function ConvertDistance(meters) {
     console.log(`${kilometers} kilometers is equal to ${miles.toFixed(2)} miles.`);
 }
 
-ConvertDistance(1852);
-ConvertDistance(798);
+convertDistance(1852);
+convertDistance(798);

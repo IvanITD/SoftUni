@@ -1,4 +1,4 @@
-function TownInfo(town, population, area) {
+function townInfo(town, population, area) {
     let isValid = true;
     
     let townInLength = town.length;
@@ -23,7 +23,7 @@ function TownInfo(town, population, area) {
     }
 }
 
-TownInfo('Sofia', 1286383, 492);
-TownInfo('LA', 1481353, 512);
-TownInfo('Plovdiv', -45000, 100);
-TownInfo('Ka', 3600, -50);
+townInfo('Sofia', 1286383, 492);
+townInfo('LA', 1481353, 512);
+townInfo('Plovdiv', -45000, 100);
+townInfo('Ka', 3600, -50);

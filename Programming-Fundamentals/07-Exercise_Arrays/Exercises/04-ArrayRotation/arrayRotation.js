@@ -1,4 +1,4 @@
-function ArrayRotation(arr, totalRotations) {
+function arrayRotation(arr, totalRotations) {
     for (let currentRotation = 1; currentRotation <= totalRotations; currentRotation++) {
         let firstElement = arr.shift();
         arr.push(firstElement);
@@ -7,6 +7,6 @@ function ArrayRotation(arr, totalRotations) {
     console.log(arr.join(' '));
 }
 
-ArrayRotation([51, 47, 32, 61, 21], 2);
-ArrayRotation([32, 21, 61, 1], 4);
-ArrayRotation([2, 4, 15, 31], 5);
+arrayRotation([51, 47, 32, 61, 21], 2);
+arrayRotation([32, 21, 61, 1], 4);
+arrayRotation([2, 4, 15, 31], 5);

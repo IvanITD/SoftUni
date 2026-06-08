@@ -1,4 +1,4 @@
-function SumOfOddNumbers(number) {
+function sumOfOddNumbers(number) {
     let printedNumbers = 0;
     let currentNumber = 1;
 
@@ -15,5 +15,5 @@ function SumOfOddNumbers(number) {
     console.log(`Sum: ${sum}`);
 }
 
-SumOfOddNumbers(5);
-SumOfOddNumbers(3);
+sumOfOddNumbers(5);
+sumOfOddNumbers(3);

@@ -1,4 +1,4 @@
-function EqualArrays(firstArr, secondArr) {
+function equalArrays(firstArr, secondArr) {
     let sum = 0;
     
     for (let i = 0; i < firstArr.length; i++) {
@@ -13,6 +13,6 @@ function EqualArrays(firstArr, secondArr) {
     console.log(`Arrays are identical. Sum: ${sum}`);
 }
 
-EqualArrays(['10','20','30'], ['10','20','30']);
-EqualArrays(['1','2','3','4','5'], ['1','2','4','4','5']);
-EqualArrays(['1'], ['10']);
+equalArrays(['10','20','30'], ['10','20','30']);
+equalArrays(['1','2','3','4','5'], ['1','2','4','4','5']);
+equalArrays(['1'], ['10']);

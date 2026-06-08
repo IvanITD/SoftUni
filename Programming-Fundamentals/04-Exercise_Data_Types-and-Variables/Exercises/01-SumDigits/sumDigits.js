@@ -1,4 +1,4 @@
-function SumDigits(number) {
+function sumDigits(number) {
     let sum = 0;
     let numberAsString = String(number);
 
@@ -8,6 +8,6 @@ function SumDigits(number) {
     console.log(sum);
 }
 
-SumDigits(245678);
-SumDigits(97561);
-SumDigits(543);
+sumDigits(245678);
+sumDigits(97561);
+sumDigits(543);

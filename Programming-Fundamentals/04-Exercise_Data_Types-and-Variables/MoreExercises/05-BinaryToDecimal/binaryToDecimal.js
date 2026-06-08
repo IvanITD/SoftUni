@@ -1,7 +1,7 @@
-function BinaryToDecimal(binary) {
+function binaryToDecimal(binary) {
     binary = parseInt(binary, 2);
     console.log(binary);
 }
 
-BinaryToDecimal('00001001');
-BinaryToDecimal('11110000');
+binaryToDecimal('00001001');
+binaryToDecimal('11110000');

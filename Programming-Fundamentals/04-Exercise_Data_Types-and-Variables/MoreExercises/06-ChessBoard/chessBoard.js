@@ -1,4 +1,4 @@
-function ChessBoard(number) {
+function chessBoard(number) {
     let chessboard = `<div class="chessboard">`;
     let spanBlack = `   <span class="black"></span>`;
     let spanWhite = `   <span class="white"></span>`;
@@ -29,4 +29,4 @@ function ChessBoard(number) {
     console.log(chessboard);
 }
 
-ChessBoard(3);
+chessBoard(3);

@@ -1,4 +1,4 @@
-function ReverseAnArrayOfNumbers(number, arr) {
+function reverseAnArrayOfNumbers(number, arr) {
     let reversedArr = [];
 
     for (let i = number - 1; i >= 0; i--) {
@@ -8,6 +8,6 @@ function ReverseAnArrayOfNumbers(number, arr) {
     console.log(reversedArr.join(' '));
 }
 
-ReverseAnArrayOfNumbers(3, [10, 20, 30, 40, 50]);
-ReverseAnArrayOfNumbers(4, [-1, 20, 99, 5]);
-ReverseAnArrayOfNumbers(2, [66, 43, 75, 89, 47]);
+reverseAnArrayOfNumbers(3, [10, 20, 30, 40, 50]);
+reverseAnArrayOfNumbers(4, [-1, 20, 99, 5]);
+reverseAnArrayOfNumbers(2, [66, 43, 75, 89, 47]);

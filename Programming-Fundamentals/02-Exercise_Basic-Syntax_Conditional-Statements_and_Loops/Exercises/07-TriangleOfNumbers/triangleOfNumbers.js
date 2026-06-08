@@ -1,9 +1,9 @@
-function TriangleOfNumbers(number) {
+function triangleOfNumbers(number) {
     for (let i = 1; i <= number; i++) {
         console.log(`${i} `.repeat(i));
     }
 }
 
-TriangleOfNumbers(3);
-TriangleOfNumbers(5);
-TriangleOfNumbers(6);
+triangleOfNumbers(3);
+triangleOfNumbers(5);
+triangleOfNumbers(6);

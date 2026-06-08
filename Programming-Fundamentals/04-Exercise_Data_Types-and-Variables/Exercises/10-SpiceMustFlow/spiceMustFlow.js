@@ -1,4 +1,4 @@
-function SpiceMustFlow(startingYield) {
+function spiceMustFlow(startingYield) {
     let dayCounter = 0;
     let spicesCollected = 0;
 
@@ -19,5 +19,5 @@ function SpiceMustFlow(startingYield) {
     console.log(spicesCollected);
 }
 
-SpiceMustFlow(111);
-SpiceMustFlow(450);
+spiceMustFlow(111);
+spiceMustFlow(450);

@@ -1,4 +1,4 @@
-function Vacation(peopleCount, groupType, weekDay) {
+function vacation(peopleCount, groupType, weekDay) {
     let price = 0;
     let totalPrice = 0;
 
@@ -60,5 +60,5 @@ function Vacation(peopleCount, groupType, weekDay) {
     console.log(`Total price: ${totalPrice.toFixed(2)}`);
 }
 
-Vacation(30, "Students", "Sunday");
-Vacation(40, "Regular", "Saturday");
+vacation(30, "Students", "Sunday");
+vacation(40, "Regular", "Saturday");

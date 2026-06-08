@@ -1,4 +1,4 @@
-function MergeArrays(arr1, arr2) {
+function mergeArrays(arr1, arr2) {
     let mergedArr = [];
     
     for (let i = 0; i < arr1.length; i++) {
@@ -12,5 +12,5 @@ function MergeArrays(arr1, arr2) {
     console.log(mergedArr.join(' - '));
 }
 
-MergeArrays(['5', '15', '23', '56', '35'], ['17', '22', '87', '36', '11']);
-MergeArrays(['13', '12312', '5', '77', '4'], ['22', '333', '5', '122', '44']);
+mergeArrays(['5', '15', '23', '56', '35'], ['17', '22', '87', '36', '11']);
+mergeArrays(['13', '12312', '5', '77', '4'], ['22', '333', '5', '122', '44']);

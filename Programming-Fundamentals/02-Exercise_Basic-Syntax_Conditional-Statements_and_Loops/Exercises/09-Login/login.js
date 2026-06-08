@@ -1,4 +1,4 @@
-function Login(arr) {
+function login(arr) {
     let username = arr[0];
     let password = username.split('').reverse().join('');
     let wrongPassCounter = 0;
@@ -19,6 +19,6 @@ function Login(arr) {
     }
 }
 
-Login(['Acer','login','go','let me in','recA']);
-Login(['momo','omom']);
-Login(['sunny','rainy','cloudy','sunny','not sunny']);
+login(['Acer','login','go','let me in','recA']);
+login(['momo','omom']);
+login(['sunny','rainy','cloudy','sunny','not sunny']);

@@ -1,4 +1,4 @@
-function PrintAndSum(givenStart, givenEnd) {
+function printAndSum(givenStart, givenEnd) {
     let index = givenStart;
     let sum = 0;
     
@@ -11,6 +11,6 @@ function PrintAndSum(givenStart, givenEnd) {
     console.log(`Sum: ${sum}`);
 }
 
-PrintAndSum(5, 10);
-PrintAndSum(0, 26);
-PrintAndSum(50, 60);
+printAndSum(5, 10);
+printAndSum(0, 26);
+printAndSum(50, 60);

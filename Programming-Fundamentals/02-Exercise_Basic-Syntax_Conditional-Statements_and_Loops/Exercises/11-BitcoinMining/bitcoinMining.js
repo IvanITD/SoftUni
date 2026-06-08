@@ -1,4 +1,4 @@
-function BitcoinMining(arr) {
+function bitcoinMining(arr) {
     let bitcoinPrice = 11949.16;
     let goldPrice = 67.51;
     let bitcoinTracker = 0;
@@ -31,5 +31,5 @@ function BitcoinMining(arr) {
     console.log(`Left money: ${moneyTracker.toFixed(2)} lv.`);
 }
 
-BitcoinMining([50, 100]);
-BitcoinMining([3124.15, 504.212, 2511.124]);
+bitcoinMining([50, 100]);
+bitcoinMining([3124.15, 504.212, 2511.124]);

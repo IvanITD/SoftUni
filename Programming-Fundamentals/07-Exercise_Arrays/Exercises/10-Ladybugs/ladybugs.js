@@ -1,4 +1,4 @@
-function Ladybugs(arr) {
+function ladybugs(arr) {
     let fieldSize = arr[0];
     let initialPosition = arr[1];
     let field = new Array(fieldSize).fill(0);
@@ -45,6 +45,6 @@ function Ladybugs(arr) {
     console.log(field.join(' '));
 }
 
-Ladybugs([ 3, '0 1', '0 right 1', '2 right 1' ]);
-Ladybugs([ 3, '0 1 2', '0 right 1', '1 right 1', '2 right 1']);
-Ladybugs([ 5, '3', '3 left 2', '1 left -2']);
+ladybugs([ 3, '0 1', '0 right 1', '2 right 1' ]);
+ladybugs([ 3, '0 1 2', '0 right 1', '1 right 1', '2 right 1']);
+ladybugs([ 5, '3', '3 left 2', '1 left -2']);

@@ -1,4 +1,4 @@
-function RightPlace(firstString, char, secondString) {
+function rightPlace(firstString, char, secondString) {
     let result = firstString.replace('_', char);
     if (result === secondString) {
         console.log(`Matched`);
@@ -8,5 +8,5 @@ function RightPlace(firstString, char, secondString) {
     }
 }
 
-RightPlace('Str_ng', 'I', 'Strong');
-RightPlace('Str_ng', 'i', 'String');
+rightPlace('Str_ng', 'I', 'Strong');
+rightPlace('Str_ng', 'i', 'String');

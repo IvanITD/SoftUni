@@ -1,4 +1,4 @@
-function AddAndSubstract(arr) {
+function addAndSubstract(arr) {
     let originalSum = 0;
     let modifiedSum = 0;
 
@@ -19,5 +19,5 @@ function AddAndSubstract(arr) {
     console.log(modifiedSum);
 }
 
-AddAndSubstract([5, 15, 23, 56, 35]);
-AddAndSubstract([-5, 11, 3, 0, 2]);
+addAndSubstract([5, 15, 23, 56, 35]);
+addAndSubstract([-5, 11, 3, 0, 2]);

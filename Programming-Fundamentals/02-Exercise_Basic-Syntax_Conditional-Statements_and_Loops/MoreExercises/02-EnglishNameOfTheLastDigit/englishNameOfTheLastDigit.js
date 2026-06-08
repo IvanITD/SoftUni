@@ -1,4 +1,4 @@
-function EnglishNameOfTheLastDigit(number) {
+function englishNameOfTheLastDigit(number) {
     // Create a variable to hold the last digit from the number
     let lastDigit = number % 10;
 
@@ -37,6 +37,6 @@ function EnglishNameOfTheLastDigit(number) {
     }
 }
 
-EnglishNameOfTheLastDigit(512);
-EnglishNameOfTheLastDigit(1);
-EnglishNameOfTheLastDigit(1643);
+englishNameOfTheLastDigit(512);
+englishNameOfTheLastDigit(1);
+englishNameOfTheLastDigit(1643);

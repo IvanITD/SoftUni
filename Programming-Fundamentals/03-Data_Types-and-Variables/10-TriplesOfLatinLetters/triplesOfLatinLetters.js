@@ -1,4 +1,4 @@
-function TriplesOfLatinLetters(number) {
+function triplesOfLatinLetters(number) {
 
     for (let i = 0; i < number; i++) {
         let firstLetter = String.fromCharCode(97 + i);
@@ -12,5 +12,5 @@ function TriplesOfLatinLetters(number) {
     }
 }
 
-TriplesOfLatinLetters(3);
-TriplesOfLatinLetters(2);
+triplesOfLatinLetters(3);
+triplesOfLatinLetters(2);

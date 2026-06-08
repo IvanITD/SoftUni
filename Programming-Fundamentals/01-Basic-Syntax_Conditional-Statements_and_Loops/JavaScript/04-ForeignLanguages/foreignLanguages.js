@@ -1,4 +1,4 @@
-function ForeignLanguage(country) {
+function foreignLanguage(country) {
     // Check the country to determine the speaking language
     switch (country) {
         case 'England':
@@ -21,5 +21,5 @@ function ForeignLanguage(country) {
     }
 }
 
-ForeignLanguage('USA');
-ForeignLanguage('Germany');
+foreignLanguage('USA');
+foreignLanguage('Germany');

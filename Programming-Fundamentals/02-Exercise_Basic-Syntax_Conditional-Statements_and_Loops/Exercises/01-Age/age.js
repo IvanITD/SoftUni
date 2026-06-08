@@ -1,4 +1,4 @@
-function Age(age) {
+function age(age) {
     if (age >= 0 && age <= 2) {
         console.log('baby');
     }
@@ -19,7 +19,7 @@ function Age(age) {
     }
 }
 
-Age(20);
-Age(1);
-Age(100);
-Age(-1);
+age(20);
+age(1);
+age(100);
+age(-1);

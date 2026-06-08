@@ -1,7 +1,7 @@
-function PoundsToDollars(GBP) {
+function poundsToDollars(GBP) {
     let USD = GBP * 1.31;
     console.log(USD.toFixed(3));
 }
 
-PoundsToDollars(80);
-PoundsToDollars(39);
+poundsToDollars(80);
+poundsToDollars(39);

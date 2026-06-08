@@ -1,4 +1,4 @@
-function ReverseInPlace(arr) {
+function reverseInPlace(arr) {
     for (let i = 0; i < arr.length / 2; i++) {
         let temp = arr[i];
         arr[i] = arr[arr.length - 1 - i];
@@ -9,6 +9,6 @@ function ReverseInPlace(arr) {
     console.log(arr);
 }
 
-ReverseInPlace(['a', 'b', 'c', 'd', 'e']);
-ReverseInPlace(['abc', 'def', 'hig', 'klm', 'nop']);
-ReverseInPlace(['33', '123', '0', 'dd']);
+reverseInPlace(['a', 'b', 'c', 'd', 'e']);
+reverseInPlace(['abc', 'def', 'hig', 'klm', 'nop']);
+reverseInPlace(['33', '123', '0', 'dd']);

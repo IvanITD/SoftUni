@@ -1,4 +1,4 @@
-function SumFirstAndLastArrayElements(arr) {
+function sumFirstAndLastArrayElements(arr) {
     let firstElement = arr[0];
     let lastElement = arr[arr.length - 1];
     let sum = firstElement + lastElement;
@@ -6,6 +6,6 @@ function SumFirstAndLastArrayElements(arr) {
     console.log(sum);
 }
 
-SumFirstAndLastArrayElements([20, 30, 40]);
-SumFirstAndLastArrayElements([10, 17, 22, 33]);
-SumFirstAndLastArrayElements([11, 58, 69]);
+sumFirstAndLastArrayElements([20, 30, 40]);
+sumFirstAndLastArrayElements([10, 17, 22, 33]);
+sumFirstAndLastArrayElements([11, 58, 69]);

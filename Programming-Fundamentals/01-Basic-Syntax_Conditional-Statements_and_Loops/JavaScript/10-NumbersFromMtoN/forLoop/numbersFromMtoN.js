@@ -1,4 +1,4 @@
-function NumbersFromMtoN(m, n) {
+function numbersFromMtoN(m, n) {
     // Print all numbers from M to N
     for (let i = m; i >= n; i--) {
         // Print to the console
@@ -6,5 +6,5 @@ function NumbersFromMtoN(m, n) {
     }
 }
 
-NumbersFromMtoN(6, 2);
-NumbersFromMtoN(4, 1);
+numbersFromMtoN(6, 2);
+numbersFromMtoN(4, 1);

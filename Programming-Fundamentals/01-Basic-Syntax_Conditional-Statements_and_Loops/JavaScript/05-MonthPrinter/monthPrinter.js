@@ -1,4 +1,4 @@
-function MonthPrinter(number) {
+function monthPrinter(number) {
     // Write a number that will represent a specific month, then check the number to print the number
     switch (number) {
         case 1:
@@ -56,5 +56,5 @@ function MonthPrinter(number) {
     }
 }
 
-MonthPrinter(2);
-MonthPrinter(13);
+monthPrinter(2);
+monthPrinter(13);

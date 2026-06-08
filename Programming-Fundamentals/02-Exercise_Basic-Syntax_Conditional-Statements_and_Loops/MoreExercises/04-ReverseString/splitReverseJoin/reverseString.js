@@ -1,8 +1,8 @@
-function ReverseString(word) {
+function reverseString(word) {
     let reverseWord = word.split('').reverse().join('');
     console.log(reverseWord);
 }
 
-ReverseString('Hello');
-ReverseString('SoftUni');
-ReverseString('1234');
+reverseString('Hello');
+reverseString('SoftUni');
+reverseString('1234');

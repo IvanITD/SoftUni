@@ -1,4 +1,4 @@
-function MagicMatrices(arr) {
+function magicMatrices(arr) {
     let isMagic = true;
 
     let targetSum = 0;
@@ -29,6 +29,6 @@ function MagicMatrices(arr) {
     console.log(isMagic);
 }
 
-MagicMatrices([[4, 5, 6], [6, 5, 4], [5, 5, 5]]);
-MagicMatrices([[11, 32, 45], [21, 0, 1], [21, 1, 1]]);
-MagicMatrices([[1, 0, 0], [0, 0, 1], [0, 1, 0]]);
+magicMatrices([[4, 5, 6], [6, 5, 4], [5, 5, 5]]);
+magicMatrices([[11, 32, 45], [21, 0, 1], [21, 1, 1]]);
+magicMatrices([[1, 0, 0], [0, 0, 1], [0, 1, 0]]);

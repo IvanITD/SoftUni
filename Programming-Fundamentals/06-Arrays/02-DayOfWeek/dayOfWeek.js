@@ -1,4 +1,4 @@
-function DayOfWeek(number) {
+function dayOfWeek(number) {
     let days = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
 
     if (number >= 1 && number <= 7) {
@@ -9,6 +9,6 @@ function DayOfWeek(number) {
     }
 }
 
-DayOfWeek(3);
-DayOfWeek(6);
-DayOfWeek(11);
+dayOfWeek(3);
+dayOfWeek(6);
+dayOfWeek(11);

@@ -1,4 +1,4 @@
-function Rounding(roundedNumber, precision) {
+function rounding(roundedNumber, precision) {
     // Check if the precision is greater than 15
     if (precision > 15) {
         // Set the precision to 15 if it exceeds the limit
@@ -14,5 +14,5 @@ function Rounding(roundedNumber, precision) {
     console.log(roundedResult);
 }
 
-Rounding(3.1415926535897932384626433832795, 2);
-Rounding(10.5,3);
+rounding(3.1415926535897932384626433832795, 2);
+rounding(10.5,3);

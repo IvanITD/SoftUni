@@ -1,4 +1,4 @@
-function GladiatorExpenses(lostFightsCount, helmetPrice, swordPrice, shieldPrice, armorPrice) {
+function gladiatorExpenses(lostFightsCount, helmetPrice, swordPrice, shieldPrice, armorPrice) {
     let helmetDamaged = 0;
     let swordDamaged = 0;
     let shieldDamaged = 0;
@@ -29,5 +29,5 @@ function GladiatorExpenses(lostFightsCount, helmetPrice, swordPrice, shieldPrice
     console.log(`Gladiator expenses: ${sum.toFixed(2)} aureus`);
 }
 
-GladiatorExpenses(7, 2, 3, 4, 5);
-GladiatorExpenses(23, 12.50, 21.50, 40, 200);
+gladiatorExpenses(7, 2, 3, 4, 5);
+gladiatorExpenses(23, 12.50, 21.50, 40, 200);

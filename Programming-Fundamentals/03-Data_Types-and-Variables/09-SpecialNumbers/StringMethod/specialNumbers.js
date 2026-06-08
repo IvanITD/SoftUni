@@ -1,4 +1,4 @@
-function SpecialNumbers(number) {
+function specialNumbers(number) {
     for (let i = 1; i <= number; i++) {
         let sum = 0;
         let numToString = i.toString();
@@ -13,5 +13,5 @@ function SpecialNumbers(number) {
     }
 }
 
-SpecialNumbers(15);
-SpecialNumbers(20);
+specialNumbers(15);
+specialNumbers(20);

@@ -1,4 +1,4 @@
-function CenturiesToMinutes(centuries) {
+function centuriesToMinutes(centuries) {
     let years = centuries * 100;
     let days = years * 365.2422;
     days = Math.trunc(days);
@@ -9,5 +9,5 @@ function CenturiesToMinutes(centuries) {
     console.log(`${centuries} centuries = ${years} years = ${days} days = ${hours} hours = ${minutes} minutes`);
 }
 
-CenturiesToMinutes(1);
-CenturiesToMinutes(5);
+centuriesToMinutes(1);
+centuriesToMinutes(5);

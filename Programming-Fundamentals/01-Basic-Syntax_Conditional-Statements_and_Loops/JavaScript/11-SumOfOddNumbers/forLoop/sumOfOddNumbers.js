@@ -1,4 +1,4 @@
-function SumOfOddNumbers(n) {
+function sumOfOddNumbers(n) {
     // Variable for later use
     let result = 0;
 
@@ -9,4 +9,4 @@ function SumOfOddNumbers(n) {
     console.log(`Sum: ${result}`);
 }
 
-SumOfOddNumbers(5)
+sumOfOddNumbers(5)

@@ -1,8 +1,8 @@
-function ReversedString(string) {
+function reversedString(string) {
     let reversedString = string.split('').reverse().join('');
     console.log(reversedString);
 }
 
-ReversedString('Information');
-ReversedString('star');
-ReversedString('racecar');
+reversedString('Information');
+reversedString('star');
+reversedString('racecar');

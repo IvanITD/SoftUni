@@ -1,4 +1,4 @@
-function NumbersFromMtoN(m, n) {
+function numbersFromMtoN(m, n) {
     // Print all numbers from M to N
     let i = m;
     while (i >= n) {
@@ -8,5 +8,5 @@ function NumbersFromMtoN(m, n) {
     }
 }
 
-NumbersFromNtoOne(6, 2);
-NumbersFromNtoOne(4, 1);
+numbersFromNtoOne(6, 2);
+numbersFromNtoOne(4, 1);

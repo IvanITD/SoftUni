@@ -1,4 +1,4 @@
-function TheatrePromotions(dayType, age) {
+function theatrePromotions(dayType, age) {
     // Create variable for later use
     
     // Check the age in order to determine the price of the ticket
@@ -48,6 +48,6 @@ function TheatrePromotions(dayType, age) {
     }
 }
 
-TheatrePromotions('Weekday', 42);
-TheatrePromotions('Holiday', -12);
-TheatrePromotions('Holiday', 15);
+theatrePromotions('Weekday', 42);
+theatrePromotions('Holiday', -12);
+theatrePromotions('Holiday', 15);

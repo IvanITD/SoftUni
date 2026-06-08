@@ -1,4 +1,4 @@
-function PrintNthElement(arr) {
+function printNthElement(arr) {
     let nStep = Number(arr[arr.length - 1]);
     let result = [];
 
@@ -8,6 +8,6 @@ function PrintNthElement(arr) {
     console.log(result.join(' '));
 }
 
-PrintNthElement(['5', '20', '31', '4', '20', '2']);
-PrintNthElement(['dsa', 'asd', 'test', 'test', '2']);
-PrintNthElement(['1', '2', '3', '4', '5', '6']);
+printNthElement(['5', '20', '31', '4', '20', '2']);
+printNthElement(['dsa', 'asd', 'test', 'test', '2']);
+printNthElement(['1', '2', '3', '4', '5', '6']);

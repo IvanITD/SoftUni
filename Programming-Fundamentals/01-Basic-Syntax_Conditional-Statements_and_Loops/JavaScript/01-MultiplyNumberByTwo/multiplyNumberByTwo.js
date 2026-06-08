@@ -1,4 +1,4 @@
-function MultiplyNumberByTwo(number) {
+function multiplyNumberByTwo(number) {
     // Multiply the number by 2
     let result = number * 2;
 
@@ -6,6 +6,6 @@ function MultiplyNumberByTwo(number) {
     console.log(result);
 }
 
-MultiplyNumberByTwo(2); // Output: 4
-MultiplyNumberByTwo(5); // Output: 10
-MultiplyNumberByTwo(20); //Output: 40
+multiplyNumberByTwo(2); // Output: 4
+multiplyNumberByTwo(5); // Output: 10
+multiplyNumberByTwo(20); //Output: 40

@@ -1,4 +1,4 @@
-function EchoType(param) {
+function echoType(param) {
     console.log(typeof param);
 
     if (typeof param === 'string' || typeof param === 'number') {
@@ -9,6 +9,6 @@ function EchoType(param) {
     }
 }
 
-EchoType('Hello, JavaScript!');
-EchoType(18);
-EchoType(null);
+echoType('Hello, JavaScript!');
+echoType(18);
+echoType(null);

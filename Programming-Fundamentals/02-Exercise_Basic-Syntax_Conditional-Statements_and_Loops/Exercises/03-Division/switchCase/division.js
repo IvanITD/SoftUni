@@ -1,4 +1,4 @@
-function Division(number) {
+function division(number) {
     if (number % 10 === 0) {
         console.log("The number is divisible by 10");
     }
@@ -19,7 +19,7 @@ function Division(number) {
     }
 }
 
-Division(30);
-Division(15);
-Division(12);
-Division(1643);
+division(30);
+division(15);
+division(12);
+division(1643);

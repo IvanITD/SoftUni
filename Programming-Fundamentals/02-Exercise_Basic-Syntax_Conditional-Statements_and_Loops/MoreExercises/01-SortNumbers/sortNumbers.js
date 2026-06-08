@@ -1,4 +1,4 @@
-function SortNumbers(num1, num2, num3) {
+function sortNumbers(num1, num2, num3) {
     // Sum the three numbers
     let sum = num1 + num2 + num3;
     
@@ -15,6 +15,6 @@ function SortNumbers(num1, num2, num3) {
     console.log(minNumber);
 }
 
-SortNumbers(2, 1, 3);
-SortNumbers(-2, 1, 3);
-SortNumbers(0, 0, 2);
+sortNumbers(2, 1, 3);
+sortNumbers(-2, 1, 3);
+sortNumbers(0, 0, 2);

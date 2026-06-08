@@ -1,4 +1,4 @@
-function ReverseString(word) {
+function reverseString(word) {
     let reversedWord = '';
 
     for (let i = word.length - 1; i >= 0; i--) {
@@ -8,6 +8,6 @@ function ReverseString(word) {
     console.log(reversedWord);
 }
 
-ReverseString('Hello');
-ReverseString('SoftUni');
-ReverseString('1234');
+reverseString('Hello');
+reverseString('SoftUni');
+reverseString('1234');

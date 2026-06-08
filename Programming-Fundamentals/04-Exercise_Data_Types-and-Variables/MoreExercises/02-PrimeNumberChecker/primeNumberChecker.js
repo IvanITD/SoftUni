@@ -1,4 +1,4 @@
-function PrimeNumberChecker(number) {
+function primeNumberChecker(number) {
     let isPrime = true;
     for (let i = 2; i < number; i++) {
         if (number % i === 0) {
@@ -14,6 +14,6 @@ function PrimeNumberChecker(number) {
     console.log(isPrime);
 }
 
-PrimeNumberChecker(7);
-PrimeNumberChecker(8);
-PrimeNumberChecker(81);
+primeNumberChecker(7);
+primeNumberChecker(8);
+primeNumberChecker(81);

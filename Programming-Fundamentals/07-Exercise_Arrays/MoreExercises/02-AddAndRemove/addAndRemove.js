@@ -1,4 +1,4 @@
-function AddAndRemove(arr) {
+function addAndRemove(arr) {
     let result = [];
     for (let i = 0; i < arr.length; i++) {
         if (arr[i] === 'add') {
@@ -15,6 +15,6 @@ function AddAndRemove(arr) {
     console.log(result.join(' '));
 }
 
-AddAndRemove(['add', 'add', 'add', 'add']);
-AddAndRemove(['add', 'add', 'remove', 'add', 'add']);
-AddAndRemove(['remove', 'remove', 'remove']);
+addAndRemove(['add', 'add', 'add', 'add']);
+addAndRemove(['add', 'add', 'remove', 'add', 'add']);
+addAndRemove(['remove', 'remove', 'remove']);

@@ -1,4 +1,4 @@
-function TseamAccount(arr) {
+function tseamAccount(arr) {
     let games = arr.shift().split(' ');
 
     for (let i = 0; i < arr.length; i++) {
@@ -43,5 +43,5 @@ function TseamAccount(arr) {
     console.log(games.join(' '));
 }
 
-TseamAccount(['CS WoW Diablo', 'Install LoL', 'Uninstall WoW', 'Update Diablo', 'Expansion CS-Go', 'Play!']);
-TseamAccount(['CS WoW Diablo', 'Uninstall XCOM', 'Update PeshoGame', 'Update WoW', 'Expansion Civ-V', 'Play!']);
+tseamAccount(['CS WoW Diablo', 'Install LoL', 'Uninstall WoW', 'Update Diablo', 'Expansion CS-Go', 'Play!']);
+tseamAccount(['CS WoW Diablo', 'Uninstall XCOM', 'Update PeshoGame', 'Update WoW', 'Expansion Civ-V', 'Play!']);

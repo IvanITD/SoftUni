@@ -1,4 +1,4 @@
-function Cone(radius, height) {
+function cone(radius, height) {
     let volume = (1/3) * Math.PI * radius ** 2 * height;
     let slantHeight = Math.sqrt(radius ** 2 + height ** 2);
     let area = Math.PI * radius * (radius + slantHeight);
@@ -7,5 +7,5 @@ function Cone(radius, height) {
     console.log(`area = ${area.toFixed(4)}`);
 }
 
-Cone(3, 5);
-Cone(3.3, 7.8);
+cone(3, 5);
+cone(3.3, 7.8);

@@ -1,4 +1,4 @@
-function EvenAndOddSubstraction(arr) {
+function evenAndOddSubstraction(arr) {
     let oddSum = 0;
     let evenSum = 0;
     
@@ -15,6 +15,6 @@ function EvenAndOddSubstraction(arr) {
     console.log(evenSum - oddSum);
 }
 
-EvenAndOddSubstraction([1,2,3,4,5,6]);
-EvenAndOddSubstraction([3,5,7,9]);
-EvenAndOddSubstraction([2,4,6,8,10]);
+evenAndOddSubstraction([1,2,3,4,5,6]);
+evenAndOddSubstraction([3,5,7,9]);
+evenAndOddSubstraction([2,4,6,8,10]);

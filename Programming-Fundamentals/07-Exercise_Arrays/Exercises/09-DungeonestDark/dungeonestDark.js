@@ -1,4 +1,4 @@
-function DungeonestDark(string) {
+function dungeonestDark(string) {
     let rooms = string.split('|');
     let initialHealth = 100;
     let initialCoins = 0;
@@ -36,5 +36,5 @@ function DungeonestDark(string) {
     console.log(`Health: ${initialHealth}`);
 }
 
-DungeonestDark("rat 10|bat 20|potion 10|rat 10|chest 100|boss 70|chest 1000");
-DungeonestDark("cat 10|potion 30|orc 10|chest 10|snake 25|chest 110");
+dungeonestDark("rat 10|bat 20|potion 10|rat 10|chest 100|boss 70|chest 1000");
+dungeonestDark("cat 10|potion 30|orc 10|chest 10|snake 25|chest 110");

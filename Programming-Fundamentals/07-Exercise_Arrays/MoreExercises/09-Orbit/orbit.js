@@ -1,4 +1,4 @@
-function Orbit(arrNumber) {
+function orbit(arrNumber) {
     let width = arrNumber[0];
     let height = arrNumber[1];
     let x = arrNumber[2];
@@ -18,5 +18,5 @@ function Orbit(arrNumber) {
     }
 }
 
-Orbit([4, 4, 0, 0]);
-Orbit([5, 5, 2, 2]);
+orbit([4, 4, 0, 0]);
+orbit([5, 5, 2, 2]);

@@ -1,4 +1,4 @@
-function SpiralMatrix(num1, num2) {
+function spiralMatrix(num1, num2) {
     let matrix = [];
     for (let row = 0; row < num1; row++) {
         matrix.push([]);
@@ -45,5 +45,5 @@ function SpiralMatrix(num1, num2) {
     }
 }
 
-SpiralMatrix(5, 5);
-SpiralMatrix(3, 3);
+spiralMatrix(5, 5);
+spiralMatrix(3, 3);

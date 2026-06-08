@@ -1,4 +1,4 @@
-function DigitsWithWords(stringNumber) {
+function digitsWithWords(stringNumber) {
     switch (stringNumber) {
         case 'zero':
             console.log(0);
@@ -33,6 +33,6 @@ function DigitsWithWords(stringNumber) {
     }
 }
 
-DigitsWithWords('nine');
-DigitsWithWords('two');
-DigitsWithWords('zero');
+digitsWithWords('nine');
+digitsWithWords('two');
+digitsWithWords('zero');

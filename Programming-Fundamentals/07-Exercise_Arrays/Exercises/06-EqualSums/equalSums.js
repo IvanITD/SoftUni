@@ -1,4 +1,4 @@
-function EqualSums(arr) {
+function equalSums(arr) {
     for (let i = 0; i < arr.length; i++) {
         let leftSum = 0;
         let rightSum = 0;
@@ -18,8 +18,8 @@ function EqualSums(arr) {
     console.log('no');
 }
 
-EqualSums([1, 2, 3, 3]);
-EqualSums([1, 2]);
-EqualSums([1]);
-EqualSums([1, 2, 3]);
-EqualSums([10, 5, 5, 99, 3, 4, 2, 5, 1, 1, 4]);
+equalSums([1, 2, 3, 3]);
+equalSums([1, 2]);
+equalSums([1]);
+equalSums([1, 2, 3]);
+equalSums([10, 5, 5, 99, 3, 4, 2, 5, 1, 1, 4]);

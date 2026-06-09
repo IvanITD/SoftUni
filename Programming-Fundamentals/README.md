@@ -80,6 +80,16 @@
       <td>Lab</td>
       <td>✅ Completed</td>
     </tr>
+    <tr>
+      <td>Functions</td>
+      <td>Lab</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>Functions</td>
+      <td>Exercise</td>
+      <td>🔄 In Progress</td>
+    </tr>
   </tbody>
 </table>
 <hr>

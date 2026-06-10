@@ -88,7 +88,12 @@
     <tr>
       <td>Functions</td>
       <td>Exercise</td>
-      <td>🔄 In Progress</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>Functions</td>
+      <td>More Exercises</td>
+      <td>🌀 Pending</td>
     </tr>
   </tbody>
 </table>

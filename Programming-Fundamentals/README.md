@@ -93,7 +93,7 @@
     <tr>
       <td>Functions</td>
       <td>More Exercises</td>
-      <td>🌀 Pending</td>
+      <td>✅ Completed</td>
     </tr>
   </tbody>
 </table>
@@ -351,6 +351,44 @@
 | Color Blocks | ![color](08-HTML_and_CSS_Basics/05-Color%20Blocks/screenshot.png) |
 
 </details>
+<hr>
+<h3>📋 Functions — More Exercises</h3>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Car Wash</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Number Modification</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Points Validation</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Radio Crystals</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Print DNA</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
 <hr>
 <h3>🌟 Get in Touch</h3>
 <p>If you have any questions, feedback, or suggestions, feel free to reach out to me via:</p>

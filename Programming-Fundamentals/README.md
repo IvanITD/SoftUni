@@ -95,10 +95,32 @@
       <td>More Exercises</td>
       <td>✅ Completed</td>
     </tr>
+    <tr>
+      <td>Software Development Concepts - Part 1</td>
+      <td>Lecture</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>Arrays Advanced</td>
+      <td>Lab</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>Arrays Advanced</td>
+      <td>Exercise</td>
+      <td>🔄 In Progress</td>
+    </tr>
+    <tr>
+      <td>Arrays Advanced</td>
+      <td>More Exercises</td>
+      <td>🔄 In Progress</td>
+    </tr>
   </tbody>
 </table>
 <hr>
-<h3>📋 Basic Syntax, Conditional Statements and Loops — More Exercises</h3>
+<details>
+<summary><b>📋 Basic Syntax, Conditional Statements and Loops — More Exercises</b></summary>
+<br>
 <table border="1">
   <thead>
     <tr>
@@ -135,8 +157,76 @@
     </tr>
   </tbody>
 </table>
+</details>
 <hr>
-<h3>📋 Data Types and Variables — More Exercises</h3>
+<details>
+<summary><b>📋 Git & GitHub — Version Control</b></summary>
+<br>
+
+Referenced repo: <a href="https://github.com/IvanITD/Git-and-GitHub">Git-and-GitHub</a>
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Topic</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Version control concepts — repo, clone, commit, push, pull, branch, merge</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Git installation and CLI basics (Git Bash)</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>GitHub profile and repository setup</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Cloning, committing, and pushing to remote</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>.gitignore configuration</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Merge conflict resolution (TortoiseGit + Git Bash)</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Team collaboration — shared repo with 3 members</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+
+<b>Team members:</b> Ivan Ivanov, Georgi Dilovski, Mihaela Ivanova
+<br><br>
+<table>
+  <tr>
+    <td><b>Repository Preview</b></td>
+  </tr>
+  <tr>
+    <td><img src="03-Git-and-GitHub/screenshots/gitAndGitHub.png" alt="Git-and-GitHub repository"></td>
+  </tr>
+</table>
+</details>
+<hr>
+<details>
+<summary><b>📋 Data Types and Variables — More Exercises</b></summary>
+<br>
 <table border="1">
   <thead>
     <tr>
@@ -183,8 +273,11 @@
     </tr>
   </tbody>
 </table>
+</details>
 <hr>
-<h3>📋 HTTP Basics — Lab</h3>
+<details>
+<summary><b>📋 HTTP Basics — Lab</b></summary>
+<br>
 <table border="1">
   <thead>
     <tr>
@@ -236,8 +329,11 @@
     </tr>
   </tbody>
 </table>
+</details>
 <hr>
-<h3>📋 Arrays — More Exercises</h3>
+<details>
+<summary><b>📋 Arrays — More Exercises</b></summary>
+<br>
 <table border="1">
   <thead>
     <tr>
@@ -294,8 +390,11 @@
     </tr>
   </tbody>
 </table>
+</details>
 <hr>
-<h3>📋 HTML & CSS Basics — Lab</h3>
+<details>
+<summary><b>📋 HTML & CSS Basics — Lab</b></summary>
+<br>
 <table border="1">
   <thead>
     <tr>
@@ -338,8 +437,6 @@
   </tbody>
 </table>
 
-<details>
-<summary><b>📸 Preview — HTML & CSS Basics Lab</b></summary>
 <br>
 
 | Task | Preview |
@@ -352,7 +449,9 @@
 
 </details>
 <hr>
-<h3>📋 Functions — More Exercises</h3>
+<details>
+<summary><b>📋 Functions — More Exercises</b></summary>
+<br>
 <table border="1">
   <thead>
     <tr>
@@ -389,6 +488,88 @@
     </tr>
   </tbody>
 </table>
+</details>
+<hr>
+<details>
+<summary><b>📋 Software Development Concepts — Part 1</b></summary>
+<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Topic</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4 Skills of Software Engineers</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Math Concepts in Software Development</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Object-Oriented Programming (OOP)</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Inheritance and Interfaces</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Functional Programming (FP)</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Lambda and First-Class Functions</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Higher-Order Functions</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Data Structures and Algorithms</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Component-Based Development</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Event-Driven Programming</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Software Architectures</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Front-End and Back-End</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Full Stack Development</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+</details>
 <hr>
 <h3>🌟 Get in Touch</h3>
 <p>If you have any questions, feedback, or suggestions, feel free to reach out to me via:</p>

@@ -115,6 +115,11 @@
       <td>More Exercises</td>
       <td>🔄 In Progress</td>
     </tr>
+    <tr>
+      <td>Regular Mid Exam</td>
+      <td>Exam</td>
+      <td>✅ Completed</td>
+    </tr>
   </tbody>
 </table>
 <hr>
@@ -612,6 +617,37 @@ Referenced repo: <a href="https://github.com/IvanITD/Git-and-GitHub">Git-and-Git
       <td>6</td>
       <td>Rosetta Stone</td>
       <td>🌀 Pending</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<hr>
+<details>
+<summary><b>📋 Regular Mid Exam — Tasks</b></summary>
+<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Experience Gaining</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Tax Calculator</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Phone Shop</td>
+      <td>✅</td>
     </tr>
   </tbody>
 </table>

@@ -108,7 +108,7 @@
     <tr>
       <td>Arrays Advanced</td>
       <td>Exercise</td>
-      <td>🔄 In Progress</td>
+      <td>✅ Completed</td>
     </tr>
     <tr>
       <td>Arrays Advanced</td>
@@ -566,6 +566,52 @@ Referenced repo: <a href="https://github.com/IvanITD/Git-and-GitHub">Git-and-Git
       <td>13</td>
       <td>Full Stack Development</td>
       <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<hr>
+<details>
+<summary><b>📋 Arrays Advanced — More Exercises</b></summary>
+<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Equal Neighbors</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Bunny Kill</td>
+      <td>🌀 Pending</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Air Pollution</td>
+      <td>🌀 Pending</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Jan's Notation</td>
+      <td>🌀 Pending</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Kate's Way Out</td>
+      <td>🌀 Pending</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Rosetta Stone</td>
+      <td>🌀 Pending</td>
     </tr>
   </tbody>
 </table>

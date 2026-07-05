@@ -65,14 +65,29 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 <details>
 <summary><b>📗 Programming Fundamentals</b> <i>— JavaScript</i></summary>
 
-| # | Topic | Status |
-|--|-------|--------|
-| 1 | Basic Syntax, Conditional Statements and Loops | ✅ Completed |
-| 2 | Git & GitHub | ✅ Completed |
-| 3 | Data Types and Variables | ✅ Completed |
-| 4 | HTTP Basics | ✅ Completed |
-| 5 | Arrays | ✅ Completed |
-| 6 | HTML & CSS Basics | ✅ Completed |
+| # | Topic | Subcategory | Status |
+|---|-------|-------------|--------|
+| 1 | Basic Syntax, Conditional Statements and Loops | Lab | ✅ Completed |
+| 2 | Basic Syntax, Conditional Statements and Loops | Exercise | ✅ Completed |
+| 3 | Basic Syntax, Conditional Statements and Loops | More Exercises | ✅ Completed |
+| 4 | Git & GitHub | Version Control | ✅ Completed |
+| 5 | Data Types and Variables | Lab | ✅ Completed |
+| 6 | Data Types and Variables | Exercise | ✅ Completed |
+| 7 | Data Types and Variables | More Exercises | ✅ Completed |
+| 8 | HTTP Basics | Lab | ✅ Completed |
+| 9 | Arrays | Lab | ✅ Completed |
+| 10 | Arrays | Exercise | ✅ Completed |
+| 11 | Arrays | More Exercises | ✅ Completed |
+| 12 | HTML & CSS Basics | Lab | ✅ Completed |
+| 13 | Functions | Lab | ✅ Completed |
+| 14 | Functions | Exercise | ✅ Completed |
+| 15 | Functions | More Exercises | ✅ Completed |
+| 16 | Software Development Concepts — Part 1 | Lecture | ✅ Completed |
+| 17 | Arrays Advanced | Lab | ✅ Completed |
+| 18 | Arrays Advanced | Exercise | ✅ Completed |
+| 19 | Arrays Advanced | More Exercises | ✅ Completed |
+| 20 | Mid Exam Preparation | Practice | ✅ Completed |
+| 21 | Regular Mid Exam | Exam | ✅ Completed |
 
 <p align="right"><a href="./Programming-Fundamentals">→ Full details</a></p>
 </details>

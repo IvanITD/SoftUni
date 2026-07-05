@@ -113,7 +113,12 @@
     <tr>
       <td>Arrays Advanced</td>
       <td>More Exercises</td>
-      <td>🔄 In Progress</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>Mid Exam Preparation</td>
+      <td>Practice</td>
+      <td>✅ Completed</td>
     </tr>
     <tr>
       <td>Regular Mid Exam</td>
@@ -596,27 +601,58 @@ Referenced repo: <a href="https://github.com/IvanITD/Git-and-GitHub">Git-and-Git
     <tr>
       <td>2</td>
       <td>Bunny Kill</td>
-      <td>🌀 Pending</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Air Pollution</td>
-      <td>🌀 Pending</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Jan's Notation</td>
-      <td>🌀 Pending</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Kate's Way Out</td>
-      <td>🌀 Pending</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Rosetta Stone</td>
-      <td>🌀 Pending</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<hr>
+<details>
+<summary><b>📋 Mid Exam Preparation — Tasks</b></summary>
+<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Guinea Pig</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Shopping List</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Memory Game / Heart Delivery</td>
+      <td>✅</td>
     </tr>
   </tbody>
 </table>

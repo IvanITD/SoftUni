@@ -125,6 +125,11 @@
       <td>Exam</td>
       <td>✅ Completed</td>
     </tr>
+    <tr>
+      <td>Objects and Classes</td>
+      <td>Lab</td>
+      <td>✅ Completed</td>
+    </tr>
   </tbody>
 </table>
 <hr>
@@ -688,7 +693,6 @@ Referenced repo: <a href="https://github.com/IvanITD/Git-and-GitHub">Git-and-Git
   </tbody>
 </table>
 </details>
-<hr>
 <h3>🌟 Get in Touch</h3>
 <p>If you have any questions, feedback, or suggestions, feel free to reach out to me via:</p>
 <ul>

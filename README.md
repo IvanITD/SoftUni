@@ -88,6 +88,7 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 | 19 | Arrays Advanced | More Exercises | ✅ Completed |
 | 20 | Mid Exam Preparation | Practice | ✅ Completed |
 | 21 | Regular Mid Exam | Exam | ✅ Completed |
+| 22 | Objects and Classes | Lab | ✅ Completed |
 
 <p align="right"><a href="./Programming-Fundamentals">→ Full details</a></p>
 </details>

@@ -1,0 +1,11 @@
+function convertToObject(jsonString) {
+    let obj = JSON.parse(jsonString);
+
+    for (let key in obj) {
+        console.log(`${key}: ${obj[key]}`);
+    }
+}
+
+convertToObject('{"name": "George", "age": 40, "town": "Sofia"}');
+console.log("--------------------------------");
+convertToObject('{"name": "Peter", "age": 35, "town": "Plovdiv"}');

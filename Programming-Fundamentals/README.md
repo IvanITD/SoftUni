@@ -135,6 +135,11 @@
       <td>Exercise</td>
       <td>✅ Completed</td>
     </tr>
+    <tr>
+      <td>Objects and Classes</td>
+      <td>More Exercises</td>
+      <td>✅ Completed</td>
+    </tr>
   </tbody>
 </table>
 <hr>
@@ -693,6 +698,47 @@ Referenced repo: <a href="https://github.com/IvanITD/Git-and-GitHub">Git-and-Git
     <tr>
       <td>3</td>
       <td>Phone Shop</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<hr>
+<details>
+<summary><b>📋 Objects and Classes — More Exercises</b></summary>
+<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Class Laptop</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Flight Schedule</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>School Register</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Browser History</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Sequences</td>
       <td>✅</td>
     </tr>
   </tbody>

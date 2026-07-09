@@ -90,6 +90,7 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 | 21 | Regular Mid Exam | Exam | ✅ Completed |
 | 22 | Objects and Classes | Lab | ✅ Completed |
 | 23 | Objects and Classes | Exercise | ✅ Completed |
+| 24 | Objects and Classes | More Exercises | ✅ Completed |
 
 <p align="right"><a href="./Programming-Fundamentals">→ Full details</a></p>
 </details>

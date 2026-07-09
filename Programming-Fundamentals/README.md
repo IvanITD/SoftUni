@@ -130,6 +130,11 @@
       <td>Lab</td>
       <td>✅ Completed</td>
     </tr>
+    <tr>
+      <td>Objects and Classes</td>
+      <td>Exercise</td>
+      <td>✅ Completed</td>
+    </tr>
   </tbody>
 </table>
 <hr>

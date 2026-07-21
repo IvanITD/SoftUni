@@ -140,6 +140,16 @@
       <td>More Exercises</td>
       <td>✅ Completed</td>
     </tr>
+    <tr>
+      <td>Software Development Concepts — Part 2</td>
+      <td>Lecture</td>
+      <td>🔄 Pending</td>
+    </tr>
+    <tr>
+      <td>Associative Arrays</td>
+      <td>Lab</td>
+      <td>✅ Completed</td>
+    </tr>
   </tbody>
 </table>
 <hr>
@@ -739,6 +749,52 @@ Referenced repo: <a href="https://github.com/IvanITD/Git-and-GitHub">Git-and-Git
     <tr>
       <td>5</td>
       <td>Sequences</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<hr>
+<details>
+<summary><b>📋 Associative Arrays — Lab</b></summary>
+<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Phone Book</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Meetings</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Address Book</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Storage</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>School Grades</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Word Occurrences</td>
       <td>✅</td>
     </tr>
   </tbody>

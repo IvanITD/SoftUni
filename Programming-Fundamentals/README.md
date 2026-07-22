@@ -150,6 +150,16 @@
       <td>Lab</td>
       <td>✅ Completed</td>
     </tr>
+    <tr>
+      <td>Associative Arrays</td>
+      <td>Exercise</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>Associative Arrays</td>
+      <td>More Exercises</td>
+      <td>🔄 Pending</td>
+    </tr>
   </tbody>
 </table>
 <hr>
@@ -795,6 +805,72 @@ Referenced repo: <a href="https://github.com/IvanITD/Git-and-GitHub">Git-and-Git
     <tr>
       <td>6</td>
       <td>Word Occurrences</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<hr>
+<details>
+<summary><b>📋 Associative Arrays — Exercise</b></summary>
+<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Word Tracker</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Odd Occurrences</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Piccolo</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Party Time</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Card Game</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Company Users</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>A Miner Task</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Travel Time</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Arena Tier</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Legendary Farming</td>
       <td>✅</td>
     </tr>
   </tbody>

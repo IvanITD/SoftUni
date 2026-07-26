@@ -160,6 +160,16 @@
       <td>More Exercises</td>
       <td>✅ Completed</td>
     </tr>
+    <tr>
+      <td>Bitwise Operations</td>
+      <td>Lab</td>
+      <td>🔄 Pending</td>
+    </tr>
+    <tr>
+      <td>Text Processing</td>
+      <td>Lab</td>
+      <td>✅ Completed</td>
+    </tr>
   </tbody>
 </table>
 <hr>
@@ -928,6 +938,88 @@ Referenced repo: <a href="https://github.com/IvanITD/Git-and-GitHub">Git-and-Git
     <tr>
       <td>5</td>
       <td>SoftUni Students</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<hr>
+<details>
+<summary><b>📋 Bitwise Operations — Lab</b></summary>
+<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Binary Digits Count</td>
+      <td>🔄</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Bit at Position One</td>
+      <td>🔄</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Pth Bit</td>
+      <td>🔄</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Bit Destroyer</td>
+      <td>🔄</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Odd Times</td>
+      <td>🔄</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Tri Bit Switch</td>
+      <td>🔄</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<hr>
+<details>
+<summary><b>📋 Text Processing — Lab</b></summary>
+<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Print Characters</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Substring</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Censored Words</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Count String Occurrences</td>
       <td>✅</td>
     </tr>
   </tbody>

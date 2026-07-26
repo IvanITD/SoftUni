@@ -1,24 +1,52 @@
 function bookShelf(input) {
+    let shelves = {};
 
+    for (let line of input) {
+        if (line.includes(' -> ')) {
+            
+            let [id, genre] = line.split(" -> ");
+            
+            if (!shelves[id]) {
+                shelves[id] = {
+                    genre: genre,
+                    books: []
+                };
+            }
+        } else if (line.includes(': ')) {
+            let [title, rest] = line.split(': ');
+            let [author, genre] = rest.split(', ');
+
+            let shelfId = Object.keys(shelves).find(id => shelves[id].genre === genre);
+
+            if (shelfId) {
+                shelves[shelfId].books.push({
+                    title: title,
+                    author: author
+                });
+            }
+        }
+    }
+
+    let shelfIds = Object.keys(shelves);
+
+    shelfIds.sort((a, b) => {
+        return shelves[b].books.length - shelves[a].books.length;
+    });
+
+    for (let id of shelfIds) {
+        shelves[id].books.sort((a, b) => {
+            return a.title.localeCompare(b.title);
+        });
+
+        let shelf = shelves[id];
+        console.log(`${id} ${shelf.genre}: ${shelf.books.length}`);
+
+        for (let book of shelf.books) {
+            console.log(`--> ${book.title}: ${book.author}`);
+        }
+    }
 }
 
-bookShelf(['JavaBasics: 2', 'user1[25] with email user1@user.com joins C#Basics', 'C#Advanced: 3', 'JSCore: 4', 
-    'user2[30] with email user2@user.com joins C#Basics', 'user13[50] with email user13@user.com joins JSCore', 
-    'user1[25] with email user1@user.com joins JSCore', 'user8[18] with email user8@user.com joins C#Advanced', 
-    'user6[85] with email user6@user.com joins JSCore', 'JSCore: 2', 
-    'user11[3] with email user11@user.com joins JavaBasics', 'user45[105] with email user45@user.com joins JSCore', 
-    'user007[20] with email user007@user.com joins JSCore', 'user700[29] with email user700@user.com joins JSCore', 
-    'user900[88] with email user900@user.com joins JSCore']);
+bookShelf(['1 -> history', '1 -> action', 'Death in Time: Criss Bell, mystery', '2 -> mystery', '3 -> sci-fi', 'Child of Silver: Bruce Rich, mystery', 'Hurting Secrets: Dustin Bolt, action', 'Future of Dawn: Aiden Rose, sci-fi', 'Lions and Rats: Gabe Roads, history', '2 -> romance', 'Effect of the Void: Shay B, romance', 'Losing Dreams: Gail Starr, sci-fi', 'Name of Earth: Jo Bell, sci-fi', 'Pilots of Stone: Brook Jay, history']);
 console.log('--------------------------------');
-bookShelf(['JavaBasics: 15',
-    'user1[26] with email user1@user.com joins JavaBasics',
-    'user2[36] with email user11@user.com joins JavaBasics',
-    'JavaBasics: 5',
-    'C#Advanced: 5',
-    'user1[26] with email user1@user.com joins C#Advanced',
-    'user2[36] with email user11@user.com joins C#Advanced',
-    'user3[6] with email user3@user.com joins C#Advanced',
-    'C#Advanced: 1',
-    'JSCore: 8',
-    'user23[62] with email user23@user.com joins JSCore']
-    );
+bookShelf(['1 -> mystery', '2 -> sci-fi', 'Child of Silver: Bruce Rich, mystery', 'Lions and Rats: Gabe Roads, history', 'Effect of the Void: Shay B, romance', 'Losing Dreams: Gail Starr, sci-fi', 'Name of Earth: Jo Bell, sci-fi']);

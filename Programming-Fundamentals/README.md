@@ -158,7 +158,7 @@
     <tr>
       <td>Associative Arrays</td>
       <td>More Exercises</td>
-      <td>🔄 Pending</td>
+      <td>✅ Completed</td>
     </tr>
   </tbody>
 </table>
@@ -766,6 +766,22 @@ Referenced repo: <a href="https://github.com/IvanITD/Git-and-GitHub">Git-and-Git
 </details>
 <hr>
 <details>
+<summary><b>📋 Software Development Concepts — Part 2</b></summary>
+<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Topic</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+</details>
+<hr>
+<details>
 <summary><b>📋 Associative Arrays — Lab</b></summary>
 <br>
 <table border="1">
@@ -871,6 +887,47 @@ Referenced repo: <a href="https://github.com/IvanITD/Git-and-GitHub">Git-and-Git
     <tr>
       <td>10</td>
       <td>Legendary Farming</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<hr>
+<details>
+<summary><b>📋 Associative Arrays — More Exercises</b></summary>
+<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Garage</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Armies</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Comments</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Book Shelf</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>SoftUni Students</td>
       <td>✅</td>
     </tr>
   </tbody>

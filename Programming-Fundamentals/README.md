@@ -170,6 +170,16 @@
       <td>Lab</td>
       <td>✅ Completed</td>
     </tr>
+    <tr>
+      <td>Text Processing</td>
+      <td>Exercise</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>Text Processing</td>
+      <td>More Exercises</td>
+      <td>🔄 Pending</td>
+    </tr>
   </tbody>
 </table>
 <hr>
@@ -1022,6 +1032,88 @@ Referenced repo: <a href="https://github.com/IvanITD/Git-and-GitHub">Git-and-Git
       <td>Count String Occurrences</td>
       <td>✅</td>
     </tr>
+  </tbody>
+</table>
+</details>
+<hr>
+<details>
+<summary><b>📋 Text Processing — Exercise</b></summary>
+<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Reveal Words</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Modern Times of HashTag</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Extract File</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>String Substring</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Replace Repeating Chars</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Pascal Case Splitter</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Cut and Reverse</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Hard Word</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Password Generator</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Letters Change Numbers</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<hr>
+<details>
+<summary><b>📋 Text Processing — More Exercises</b></summary>
+<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
   </tbody>
 </table>
 </details>

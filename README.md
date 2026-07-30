@@ -98,7 +98,8 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 | 29 | Bitwise Operations | Lab | 🔄 Pending |
 | 30 | Text Processing | Lab | ✅ Completed |
 | 31 | Text Processing | Exercise | ✅ Completed |
-| 32 | Text Processing | More Exercises | 🔄 Pending |
+| 32 | Text Processing | More Exercises | ✅ Completed |
+| 33 | Regular Expressions | Lab | ✅ Completed |
 
 <p align="right"><a href="./Programming-Fundamentals">→ Full details</a></p>
 </details>

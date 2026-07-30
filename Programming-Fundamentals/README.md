@@ -178,7 +178,12 @@
     <tr>
       <td>Text Processing</td>
       <td>More Exercises</td>
-      <td>🔄 Pending</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>Regular Expressions</td>
+      <td>Lab</td>
+      <td>✅ Completed</td>
     </tr>
   </tbody>
 </table>
@@ -1114,6 +1119,67 @@ Referenced repo: <a href="https://github.com/IvanITD/Git-and-GitHub">Git-and-Git
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>1</td>
+      <td>Value of a String</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Serialize String</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Deserialize String</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Ascii Sumator</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Treasure Finder</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Melrah Shake</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<hr>
+<details>
+<summary><b>📋 Regular Expressions — Lab</b></summary>
+<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Match Full Name</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Match Phone Number</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Match Dates</td>
+      <td>✅</td>
+    </tr>
   </tbody>
 </table>
 </details>

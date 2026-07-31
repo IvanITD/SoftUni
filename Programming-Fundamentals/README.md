@@ -193,7 +193,7 @@
     <tr>
       <td>Regular Expressions</td>
       <td>More Exercises</td>
-      <td>🔄 Pending</td>
+      <td>✅ Completed</td>
     </tr>
   </tbody>
 </table>
@@ -1252,6 +1252,26 @@ Referenced repo: <a href="https://github.com/IvanITD/Git-and-GitHub">Git-and-Git
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>1</td>
+      <td>Winning Ticket</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Rage Quit</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Post Office</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Santa's Secret Helper</td>
+      <td>✅</td>
+    </tr>
   </tbody>
 </table>
 </details>

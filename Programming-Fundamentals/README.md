@@ -185,6 +185,16 @@
       <td>Lab</td>
       <td>✅ Completed</td>
     </tr>
+    <tr>
+      <td>Regular Expressions</td>
+      <td>Exercise</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>Regular Expressions</td>
+      <td>More Exercises</td>
+      <td>🔄 Pending</td>
+    </tr>
   </tbody>
 </table>
 <hr>
@@ -1180,6 +1190,68 @@ Referenced repo: <a href="https://github.com/IvanITD/Git-and-GitHub">Git-and-Git
       <td>Match Dates</td>
       <td>✅</td>
     </tr>
+  </tbody>
+</table>
+</details>
+<hr>
+<details>
+<summary><b>📋 Regular Expressions — Exercise</b></summary>
+<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Furniture</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Race</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>SoftUni Bar Income</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Star Enigma</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Nether Realms</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Extract Emails</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<hr>
+<details>
+<summary><b>📋 Regular Expressions — More Exercises</b></summary>
+<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
   </tbody>
 </table>
 </details>

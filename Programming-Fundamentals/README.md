@@ -195,6 +195,16 @@
       <td>More Exercises</td>
       <td>✅ Completed</td>
     </tr>
+    <tr>
+      <td>Exam Preparation</td>
+      <td>Practice</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>Final Exam</td>
+      <td>Exam</td>
+      <td>✅ Completed</td>
+    </tr>
   </tbody>
 </table>
 <hr>
@@ -1270,6 +1280,73 @@ Referenced repo: <a href="https://github.com/IvanITD/Git-and-GitHub">Git-and-Git
     <tr>
       <td>4</td>
       <td>Santa's Secret Helper</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<hr>
+<details>
+<summary><b>📋 Exam Preparation — Tasks</b></summary>
+<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Password Reset</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Destination Mapper</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Need for Speed III</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>String Game</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<hr>
+<details>
+<summary><b>📋 Final Exam — Tasks</b></summary>
+<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>String Game</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Boss Rush</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Messages Manager</td>
       <td>✅</td>
     </tr>
   </tbody>

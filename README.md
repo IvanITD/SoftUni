@@ -102,6 +102,8 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 | 33 | Regular Expressions | Lab | ✅ Completed |
 | 34 | Regular Expressions | Exercise | ✅ Completed |
 | 35 | Regular Expressions | More Exercises | ✅ Completed |
+| 36 | Exam Preparation | Practice | ✅ Completed |
+| 37 | Final Exam | Exam | ✅ Completed |
 
 <p align="right"><a href="./Programming-Fundamentals">→ Full details</a></p>
 </details>

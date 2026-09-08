@@ -91,7 +91,7 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 | 22 | Objects and Classes | Lab | ✅ Completed |
 | 23 | Objects and Classes | Exercise | ✅ Completed |
 | 24 | Objects and Classes | More Exercises | ✅ Completed |
-| 25 | Software Development Concepts — Part 2 | Lecture | 🔄 Pending |
+| 25 | Software Development Concepts — Part 2 | Lecture | ✅ Completed |
 | 26 | Associative Arrays | Lab | ✅ Completed |
 | 27 | Associative Arrays | Exercise | ✅ Completed |
 | 28 | Associative Arrays | More Exercises | ✅ Completed |

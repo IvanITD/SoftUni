@@ -143,7 +143,7 @@
     <tr>
       <td>Software Development Concepts — Part 2</td>
       <td>Lecture</td>
-      <td>🔄 Pending</td>
+      <td>✅ Completed</td>
     </tr>
     <tr>
       <td>Associative Arrays</td>

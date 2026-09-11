@@ -31,7 +31,7 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 |---|--------|--------|-----------|
 | 1 | **Programming Basics** | ✅ Completed | C# & JavaScript |
 | 2 | **Programming Fundamentals** | ✅ Completed | JavaScript |
-| 3 | **JS Advanced** | ❌ Not Started | JavaScript |
+| 3 | **JS Advanced** | 🔄 In Progress | JavaScript |
 | 4 | **Web Core** | ❌ Not Started | HTML, CSS, TypeScript |
 | 5 | **JS Back-End** | ❌ Not Started | PostgreSQL, Node.js |
 | 6 | **React** | ❌ Not Started | ReactJS, React Native |
@@ -41,7 +41,7 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 
 ### 📂 Modules
 
-<details open>
+<details>
 <summary><b>📘 Programming Basics</b> <i>— 12 topics across C# & JavaScript</i></summary>
 
 | # | Topic | C# | JS |
@@ -59,7 +59,7 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 | 11 | Nested Loops — Lab | ✅ | ✅ |
 | 12 | Nested Loops — Exercise | ✅ | ✅ |
 
-<p align="right"><a href="./Programming-Basics">→ Full details</a></p>
+<p align="right"><a href="./1-Programming-Basics">→ Full details</a></p>
 </details>
 
 <details>
@@ -105,7 +105,38 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 | 36 | Exam Preparation | Practice | ✅ Completed |
 | 37 | Final Exam | Exam | ✅ Completed |
 
-<p align="right"><a href="./Programming-Fundamentals">→ Full details</a></p>
+<p align="right"><a href="./2-Programming-Fundamentals">→ Full details</a></p>
+</details>
+
+<details open>
+<summary><b>📙 JS Advanced</b> <i>— JavaScript</i></summary>
+
+| # | Topic | Subcategory | Status |
+|---|-------|-------------|--------|
+| 1 | Syntax, Functions and Statements | Lab | ✅ Completed |
+| 2 | Syntax, Functions and Statements | Exercise | ✅ Completed |
+| 3 | Arrays and Nested Arrays | Lab | 🔄 Pending |
+| 4 | Arrays and Nested Arrays | Exercise | 🔄 Pending |
+| 5 | Objects and Composition | Lab | 🔄 Pending |
+| 6 | Objects and Composition | Exercise | 🔄 Pending |
+| 7 | DOM Introduction | Lab | 🔄 Pending |
+| 8 | DOM Introduction | Exercise | 🔄 Pending |
+| 9 | DOM Manipulations and Events | Lab | 🔄 Pending |
+| 10 | DOM Manipulations and Events | Exercise | 🔄 Pending |
+| 11 | Advanced Functions | Lab | 🔄 Pending |
+| 12 | Advanced Functions | Exercise | 🔄 Pending |
+| 13 | Unit Testing and Error Handling | Lab | 🔄 Pending |
+| 14 | Unit Testing and Error Handling | Exercise | 🔄 Pending |
+| 15 | Classes | Lab | 🔄 Pending |
+| 16 | Classes | Exercise | 🔄 Pending |
+| 17 | Prototypes and Inheritance | Lab | 🔄 Pending |
+| 18 | Prototypes and Inheritance | Exercise | 🔄 Pending |
+| 19 | Exam Preparation | Practice | 🔄 Pending |
+| 20 | Workshop: Browser Game | Workshop | 🔄 Pending |
+| 21 | Regular Exam | Exam | 🔄 Pending |
+| 22 | Retake Exam | Exam | 🔄 Pending |
+
+<p align="right"><a href="./3-JS-Advanced">→ Full details</a></p>
 </details>
 
 <details>
@@ -113,7 +144,6 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 
 | # | Module | Courses |
 |---|--------|---------|
-| 3 | **JS Advanced** | JS Advanced + JS Applications |
 | 4 | **Web Core** | HTML & CSS + TypeScript |
 | 5 | **JS Back-End** | PostgreSQL + JS Back-End |
 | 6 | **React** | ReactJS + React Native |

@@ -27,7 +27,7 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 |-------|-------------|--------|----------|
 | Syntax, Functions and Statements | Lab | ✅ Completed | Functions, `Date`, `Math`, loops, conditionals |
 | Syntax, Functions and Statements | Exercise | ✅ Completed | Number/string ops, GCD, time, radar, cooking ops |
-| Arrays and Nested Arrays | Lab | 🔄 Pending | Nested arrays, `map` / `filter` / `reduce`, sorting |
+| Arrays and Nested Arrays | Lab | ✅ Completed | Nested arrays, `map` / `filter` / `reduce`, sorting |
 | Arrays and Nested Arrays | Exercise | 🔄 Pending | Matrices, destructuring, advanced array methods |
 | Objects and Composition | Lab | 🔄 Pending | Object literals, composition, JSON |
 | Objects and Composition | Exercise | 🔄 Pending | Factory functions, revealing module, object ops |
@@ -86,6 +86,28 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | 7 | Cooking by Numbers | ✅ |
 | 8 | Validity Checker | ✅ |
 | 9 | Words Uppercase | ✅ |
+
+</details>
+
+---
+
+<details open>
+<summary><b>📋 Arrays and Nested Arrays — Lab</b></summary>
+<br>
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | Even Position Elements | ✅ |
+| 2 | Last K Numbers Sequence | ✅ |
+| 3 | Sum First Last | ✅ |
+| 4 | Negative / Positive Numbers | ✅ |
+| 5 | Smallest Two Numbers | ✅ |
+| 6 | Bigger Half | ✅ |
+| 7 | Piece of Pie | ✅ |
+| 8 | Process Odd Positions | ✅ |
+| 9 | Biggest Element | ✅ |
+| 10 | Diagonal Sums | ✅ |
+| 11 | Equal Neighbors | ✅ |
 
 </details>
 

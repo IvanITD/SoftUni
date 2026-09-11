@@ -115,7 +115,7 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 |---|-------|-------------|--------|
 | 1 | Syntax, Functions and Statements | Lab | ✅ Completed |
 | 2 | Syntax, Functions and Statements | Exercise | ✅ Completed |
-| 3 | Arrays and Nested Arrays | Lab | 🔄 Pending |
+| 3 | Arrays and Nested Arrays | Lab | ✅ Completed |
 | 4 | Arrays and Nested Arrays | Exercise | 🔄 Pending |
 | 5 | Objects and Composition | Lab | 🔄 Pending |
 | 6 | Objects and Composition | Exercise | 🔄 Pending |

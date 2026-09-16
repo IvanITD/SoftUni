@@ -28,7 +28,7 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | Syntax, Functions and Statements | Lab | ✅ Completed | Functions, `Date`, `Math`, loops, conditionals |
 | Syntax, Functions and Statements | Exercise | ✅ Completed | Number/string ops, GCD, time, radar, cooking ops |
 | Arrays and Nested Arrays | Lab | ✅ Completed | Nested arrays, `map` / `filter` / `reduce`, sorting |
-| Arrays and Nested Arrays | Exercise | 🔄 Pending | Matrices, destructuring, advanced array methods |
+| Arrays and Nested Arrays | Exercise | ✅ Completed | Matrices, destructuring, advanced array methods |
 | Objects and Composition | Lab | 🔄 Pending | Object literals, composition, JSON |
 | Objects and Composition | Exercise | 🔄 Pending | Factory functions, revealing module, object ops |
 | DOM Introduction | Lab | 🔄 Pending | `querySelector`, `innerHTML`, `textContent` |
@@ -108,6 +108,30 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | 9 | Biggest Element | ✅ |
 | 10 | Diagonal Sums | ✅ |
 | 11 | Equal Neighbors | ✅ |
+
+</details>
+
+---
+
+<details open>
+<summary><b>📋 Arrays and Nested Arrays — Exercise</b></summary>
+<br>
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | Print an Array with a Given Delimiter | ✅ |
+| 2 | Print Every N-th Element from an Array | ✅ |
+| 3 | Add and Remove Elements | ✅ |
+| 4 | Rotate Array | ✅ |
+| 5 | Extract Increasing Subsequence from Array | ✅ |
+| 6 | List of Names | ✅ |
+| 7 | Sorting Numbers | ✅ |
+| 8 | Sort an Array by 2 Criteria | ✅ |
+| 9 | Magic Matrices | ✅ |
+| 10 | Tic-Tac-Toe | ✅ |
+| 11 | Diagonal Attack | ✅ |
+| 12 | Orbit | ✅ |
+| 13 | Spiral Matrix | ✅ |
 
 </details>
 

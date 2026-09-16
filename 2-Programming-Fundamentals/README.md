@@ -163,7 +163,7 @@
     <tr>
       <td>Bitwise Operations</td>
       <td>Lab</td>
-      <td>🔄 Pending</td>
+      <td>✅ Completed</td>
     </tr>
     <tr>
       <td>Text Processing</td>
@@ -994,32 +994,32 @@ Referenced repo: <a href="https://github.com/IvanITD/Git-and-GitHub">Git-and-Git
     <tr>
       <td>1</td>
       <td>Binary Digits Count</td>
-      <td>🔄</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Bit at Position One</td>
-      <td>🔄</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>3</td>
       <td>Pth Bit</td>
-      <td>🔄</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>4</td>
       <td>Bit Destroyer</td>
-      <td>🔄</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>5</td>
       <td>Odd Times</td>
-      <td>🔄</td>
+      <td>✅</td>
     </tr>
     <tr>
       <td>6</td>
       <td>Tri Bit Switch</td>
-      <td>🔄</td>
+      <td>✅</td>
     </tr>
   </tbody>
 </table>

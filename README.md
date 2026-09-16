@@ -95,7 +95,7 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 | 26 | Associative Arrays | Lab | ✅ Completed |
 | 27 | Associative Arrays | Exercise | ✅ Completed |
 | 28 | Associative Arrays | More Exercises | ✅ Completed |
-| 29 | Bitwise Operations | Lab | 🔄 Pending |
+| 29 | Bitwise Operations | Lab | ✅ Completed |
 | 30 | Text Processing | Lab | ✅ Completed |
 | 31 | Text Processing | Exercise | ✅ Completed |
 | 32 | Text Processing | More Exercises | ✅ Completed |

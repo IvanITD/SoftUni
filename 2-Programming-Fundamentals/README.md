@@ -6,6 +6,7 @@
 <h3>🛠️ Tools and Technologies</h3>
 <ul>
 	<li><b>Programming Language:</b> JavaScript</li>
+	<li><b>Database:</b> MySQL 8.0 (Workbench)</li>
 	<li><b>IDE:</b> VS Code</li>
 	<li><b>Version Control:</b> Git & GitHub</li>
 </ul>
@@ -193,6 +194,11 @@
     <tr>
       <td>Regular Expressions</td>
       <td>More Exercises</td>
+      <td>✅ Completed</td>
+    </tr>
+    <tr>
+      <td>Database Basics</td>
+      <td>Lab</td>
       <td>✅ Completed</td>
     </tr>
     <tr>
@@ -1280,6 +1286,72 @@ Referenced repo: <a href="https://github.com/IvanITD/Git-and-GitHub">Git-and-Git
     <tr>
       <td>4</td>
       <td>Santa's Secret Helper</td>
+      <td>✅</td>
+    </tr>
+  </tbody>
+</table>
+</details>
+<hr>
+<details>
+<summary><b>📋 Database Basics — Lab</b></summary>
+<br>
+<table border="1">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Task</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Create Database</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Create Table</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Insert Data</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Find All Records</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Find Last Name, Age and Grade</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Find First 5 Records</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Find First 5 Last Name and Grade</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Truncate Table</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Drop Table</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Drop Database</td>
       <td>✅</td>
     </tr>
   </tbody>

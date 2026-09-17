@@ -18,7 +18,7 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 | Category | Technologies |
 |----------|-------------|
 | Languages | JavaScript (primary), C# (basics) |
-| Databases | PostgreSQL |
+| Databases | MySQL (Fundamentals lab), PostgreSQL |
 | Web | HTML, CSS, TypeScript, React |
 | Back-End | Node.js, Express.js |
 | DevOps | Docker, CI/CD, Cloud |
@@ -102,8 +102,9 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 | 33 | Regular Expressions | Lab | ✅ Completed |
 | 34 | Regular Expressions | Exercise | ✅ Completed |
 | 35 | Regular Expressions | More Exercises | ✅ Completed |
-| 36 | Exam Preparation | Practice | ✅ Completed |
-| 37 | Final Exam | Exam | ✅ Completed |
+| 36 | Database Basics | Lab | ✅ Completed |
+| 37 | Exam Preparation | Practice | ✅ Completed |
+| 38 | Final Exam | Exam | ✅ Completed |
 
 <p align="right"><a href="./2-Programming-Fundamentals">→ Full details</a></p>
 </details>

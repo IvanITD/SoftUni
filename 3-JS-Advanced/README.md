@@ -29,7 +29,7 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | Syntax, Functions and Statements | Exercise | ✅ Completed | Number/string ops, GCD, time, radar, cooking ops |
 | Arrays and Nested Arrays | Lab | ✅ Completed | Nested arrays, `map` / `filter` / `reduce`, sorting |
 | Arrays and Nested Arrays | Exercise | ✅ Completed | Matrices, destructuring, advanced array methods |
-| Objects and Composition | Lab | 🔄 Pending | Object literals, composition, JSON |
+| Objects and Composition | Lab | ✅ Completed | Object literals, composition, JSON |
 | Objects and Composition | Exercise | 🔄 Pending | Factory functions, revealing module, object ops |
 | DOM Introduction | Lab | 🔄 Pending | `querySelector`, `innerHTML`, `textContent` |
 | DOM Introduction | Exercise | 🔄 Pending | Traversing and updating the DOM tree |
@@ -132,6 +132,23 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | 11 | Diagonal Attack | ✅ |
 | 12 | Orbit | ✅ |
 | 13 | Spiral Matrix | ✅ |
+
+</details>
+
+---
+
+<details open>
+<summary><b>📋 Objects and Composition — Lab</b></summary>
+<br>
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | City Record | ✅ |
+| 2 | Town Population | ✅ |
+| 3 | City Taxes | ✅ |
+| 4 | Object Factory | ✅ |
+| 5 | Assembly Line | ✅ |
+| 6 | From JSON to HTML Table | ✅ |
 
 </details>
 

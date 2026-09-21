@@ -119,7 +119,7 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 | 3 | Arrays and Nested Arrays | Lab | ✅ Completed |
 | 4 | Arrays and Nested Arrays | Exercise | ✅ Completed |
 | 5 | Objects and Composition | Lab | ✅ Completed |
-| 6 | Objects and Composition | Exercise | 🔄 Pending |
+| 6 | Objects and Composition | Exercise | ✅ Completed |
 | 7 | DOM Introduction | Lab | 🔄 Pending |
 | 8 | DOM Introduction | Exercise | 🔄 Pending |
 | 9 | DOM Manipulations and Events | Lab | 🔄 Pending |

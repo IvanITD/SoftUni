@@ -30,7 +30,7 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | Arrays and Nested Arrays | Lab | ✅ Completed | Nested arrays, `map` / `filter` / `reduce`, sorting |
 | Arrays and Nested Arrays | Exercise | ✅ Completed | Matrices, destructuring, advanced array methods |
 | Objects and Composition | Lab | ✅ Completed | Object literals, composition, JSON |
-| Objects and Composition | Exercise | 🔄 Pending | Factory functions, revealing module, object ops |
+| Objects and Composition | Exercise | ✅ Completed | Factory functions, revealing module, object ops |
 | DOM Introduction | Lab | 🔄 Pending | `querySelector`, `innerHTML`, `textContent` |
 | DOM Introduction | Exercise | 🔄 Pending | Traversing and updating the DOM tree |
 | DOM Manipulations and Events | Lab | 🔄 Pending | `createElement`, `addEventListener` |
@@ -149,6 +149,28 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | 4 | Object Factory | ✅ |
 | 5 | Assembly Line | ✅ |
 | 6 | From JSON to HTML Table | ✅ |
+
+</details>
+
+---
+
+<details open>
+<summary><b>📋 Objects and Composition — Exercise</b></summary>
+<br>
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | Calorie Object | ✅ |
+| 2 | Construction Crew | ✅ |
+| 3 | Car Factory | ✅ |
+| 4 | Heroic Inventory | ✅ |
+| 5 | Lowest Prices in Cities | ✅ |
+| 6 | Store Catalogue | ✅ |
+| 7 | Towns to JSON | ✅ |
+| 8 | Rectangle | ✅ |
+| 9 | Sorted List | ✅ |
+| 10 | Heroes | ✅ |
+| 11 | Jan's Notation | ✅ |
 
 </details>
 

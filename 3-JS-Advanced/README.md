@@ -31,8 +31,8 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | Arrays and Nested Arrays | Exercise | ✅ Completed | Matrices, destructuring, advanced array methods |
 | Objects and Composition | Lab | ✅ Completed | Object literals, composition, JSON |
 | Objects and Composition | Exercise | ✅ Completed | Factory functions, revealing module, object ops |
-| DOM Introduction | Lab | 🔄 Pending | `querySelector`, `innerHTML`, `textContent` |
-| DOM Introduction | Exercise | 🔄 Pending | Traversing and updating the DOM tree |
+| DOM Introduction | Lab | ✅ Completed | `querySelector`, `textContent`, `.value`, `style.display` |
+| DOM Introduction | Exercise | ✅ Completed | Traversing and updating the DOM tree |
 | DOM Manipulations and Events | Lab | 🔄 Pending | `createElement`, `addEventListener` |
 | DOM Manipulations and Events | Exercise | 🔄 Pending | Event object, delegation, dynamic UI |
 | Advanced Functions | Lab | 🔄 Pending | Closures, `this`, `call` / `apply` / `bind` |
@@ -50,7 +50,7 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 
 ---
 
-<details open>
+<details>
 <summary><b>📋 Syntax, Functions and Statements — Lab</b></summary>
 <br>
 
@@ -71,7 +71,7 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 
 ---
 
-<details open>
+<details>
 <summary><b>📋 Syntax, Functions and Statements — Exercise</b></summary>
 <br>
 
@@ -91,7 +91,7 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 
 ---
 
-<details open>
+<details>
 <summary><b>📋 Arrays and Nested Arrays — Lab</b></summary>
 <br>
 
@@ -113,7 +113,7 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 
 ---
 
-<details open>
+<details>
 <summary><b>📋 Arrays and Nested Arrays — Exercise</b></summary>
 <br>
 
@@ -137,7 +137,7 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 
 ---
 
-<details open>
+<details>
 <summary><b>📋 Objects and Composition — Lab</b></summary>
 <br>
 
@@ -154,7 +154,7 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 
 ---
 
-<details open>
+<details>
 <summary><b>📋 Objects and Composition — Exercise</b></summary>
 <br>
 
@@ -171,6 +171,44 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | 9 | Sorted List | ✅ |
 | 10 | Heroes | ✅ |
 | 11 | Jan's Notation | ✅ |
+
+</details>
+
+---
+
+<details>
+<summary><b>📋 DOM Introduction — Lab</b></summary>
+<br>
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | Edit Element | ✅ |
+| 2 | Collect List Items | ✅ |
+| 3 | Sum Numbers | ✅ |
+| 4 | Show More | ✅ |
+| 5 | Colorize Table | ✅ |
+| 6 | Sum Table | ✅ |
+| 7 | Extract Parenthesis | ✅ |
+
+</details>
+
+---
+
+<details>
+<summary><b>📋 DOM Introduction — Exercise</b></summary>
+<br>
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | Subtraction | ✅ |
+| 2 | Pascal or Camel Case | ✅ |
+| 3 | Accordion | ✅ |
+| 4 | Search in List | ✅ |
+| 5 | Table - Search Engine | ✅ |
+| 6 | Format the Text | ✅ |
+| 7 | Hell's Kitchen | ✅ |
+| 8 | Generate Report | ✅ |
+| 9 | Number Convertor | ✅ |
 
 </details>
 

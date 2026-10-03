@@ -122,7 +122,7 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 | 6 | Objects and Composition | Exercise | ✅ Completed |
 | 7 | DOM Introduction | Lab | ✅ Completed |
 | 8 | DOM Introduction | Exercise | ✅ Completed |
-| 9 | DOM Manipulations and Events | Lab | 🔄 Pending |
+| 9 | DOM Manipulations and Events | Lab | ✅ Completed |
 | 10 | DOM Manipulations and Events | Exercise | 🔄 Pending |
 | 11 | Advanced Functions | Lab | 🔄 Pending |
 | 12 | Advanced Functions | Exercise | 🔄 Pending |

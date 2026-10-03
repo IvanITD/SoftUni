@@ -33,7 +33,7 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | Objects and Composition | Exercise | ✅ Completed | Factory functions, revealing module, object ops |
 | DOM Introduction | Lab | ✅ Completed | `querySelector`, `textContent`, `.value`, `style.display` |
 | DOM Introduction | Exercise | ✅ Completed | Traversing and updating the DOM tree |
-| DOM Manipulations and Events | Lab | 🔄 Pending | `createElement`, `addEventListener` |
+| DOM Manipulations and Events | Lab | ✅ Completed | `createElement`, `addEventListener` |
 | DOM Manipulations and Events | Exercise | 🔄 Pending | Event object, delegation, dynamic UI |
 | Advanced Functions | Lab | 🔄 Pending | Closures, `this`, `call` / `apply` / `bind` |
 | Advanced Functions | Exercise | 🔄 Pending | IIFE, currying, function context |
@@ -209,6 +209,24 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | 7 | Hell's Kitchen | ✅ |
 | 8 | Generate Report | ✅ |
 | 9 | Number Convertor | ✅ |
+
+</details>
+
+---
+
+<details>
+<summary><b>📋 DOM Manipulations and Events — Lab</b></summary>
+<br>
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | List of Items | ✅ |
+| 2 | Delete from Table | ✅ |
+| 3 | Add/Delete | ✅ |
+| 4 | Mouse Gradient | ✅ |
+| 5 | Highlight Active | ✅ |
+| 6 | Dynamic Validation | ✅ |
+| 7 | Shopping Cart | ✅ |
 
 </details>
 

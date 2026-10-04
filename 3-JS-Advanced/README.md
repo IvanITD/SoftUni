@@ -34,7 +34,7 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | DOM Introduction | Lab | ✅ Completed | `querySelector`, `textContent`, `.value`, `style.display` |
 | DOM Introduction | Exercise | ✅ Completed | Traversing and updating the DOM tree |
 | DOM Manipulations and Events | Lab | ✅ Completed | `createElement`, `addEventListener` |
-| DOM Manipulations and Events | Exercise | 🔄 Pending | Event object, delegation, dynamic UI |
+| DOM Manipulations and Events | Exercise | ✅ Completed | Event object, `JSON.parse`, encode/decode, dynamic UI |
 | Advanced Functions | Lab | 🔄 Pending | Closures, `this`, `call` / `apply` / `bind` |
 | Advanced Functions | Exercise | 🔄 Pending | IIFE, currying, function context |
 | Unit Testing and Error Handling | Lab | 🔄 Pending | `throw`, `try` / `catch`, Mocha, Chai |
@@ -227,6 +227,26 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | 5 | Highlight Active | ✅ |
 | 6 | Dynamic Validation | ✅ |
 | 7 | Shopping Cart | ✅ |
+
+</details>
+
+---
+
+<details>
+<summary><b>📋 DOM Manipulations and Events — Exercise</b></summary>
+<br>
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | Sections | ✅ |
+| 2 | Time Converter | ✅ |
+| 3 | Locked Profile | ✅ |
+| 4 | Fill Dropdown | ✅ |
+| 5 | Encode and Decode Messages | ✅ |
+| 6 | Furniture | ✅ |
+| 7 | Distance Converter | ✅ |
+| 8 | Sudomu | ✅ |
+| 9 | JavaScript Quiz | ✅ |
 
 </details>
 

@@ -124,7 +124,7 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 | 8 | DOM Introduction | Exercise | ✅ Completed |
 | 9 | DOM Manipulations and Events | Lab | ✅ Completed |
 | 10 | DOM Manipulations and Events | Exercise | ✅ Completed |
-| 11 | Advanced Functions | Lab | 🔄 Pending |
+| 11 | Advanced Functions | Lab | ✅ Completed |
 | 12 | Advanced Functions | Exercise | 🔄 Pending |
 | 13 | Unit Testing and Error Handling | Lab | 🔄 Pending |
 | 14 | Unit Testing and Error Handling | Exercise | 🔄 Pending |

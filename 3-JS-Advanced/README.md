@@ -35,7 +35,7 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | DOM Introduction | Exercise | ✅ Completed | Traversing and updating the DOM tree |
 | DOM Manipulations and Events | Lab | ✅ Completed | `createElement`, `addEventListener` |
 | DOM Manipulations and Events | Exercise | ✅ Completed | Event object, `JSON.parse`, encode/decode, dynamic UI |
-| Advanced Functions | Lab | 🔄 Pending | Closures, `this`, `call` / `apply` / `bind` |
+| Advanced Functions | Lab | ✅ Completed | Closures, `.call`, partial application, `Object.create` |
 | Advanced Functions | Exercise | 🔄 Pending | IIFE, currying, function context |
 | Unit Testing and Error Handling | Lab | 🔄 Pending | `throw`, `try` / `catch`, Mocha, Chai |
 | Unit Testing and Error Handling | Exercise | 🔄 Pending | Writing and running unit tests |
@@ -247,6 +247,24 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | 7 | Distance Converter | ✅ |
 | 8 | Sudomu | ✅ |
 | 9 | JavaScript Quiz | ✅ |
+
+</details>
+
+---
+
+<details>
+<summary><b>📋 Advanced Functions — Lab</b></summary>
+<br>
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | Area and Volume Calculator | ✅ |
+| 2 | Add | ✅ |
+| 3 | Currency Format | ✅ |
+| 4 | Filter Employees | ✅ |
+| 5 | Command Processor | ✅ |
+| 6 | List Processor | ✅ |
+| 7 | Cars | ✅ |
 
 </details>
 

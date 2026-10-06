@@ -36,7 +36,7 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | DOM Manipulations and Events | Lab | ✅ Completed | `createElement`, `addEventListener` |
 | DOM Manipulations and Events | Exercise | ✅ Completed | Event object, `JSON.parse`, encode/decode, dynamic UI |
 | Advanced Functions | Lab | ✅ Completed | Closures, `.call`, partial application, `Object.create` |
-| Advanced Functions | Exercise | 🔄 Pending | IIFE, currying, function context |
+| Advanced Functions | Exercise | ✅ Completed | Closures, currying, `.call`, DOM state |
 | Unit Testing and Error Handling | Lab | 🔄 Pending | `throw`, `try` / `catch`, Mocha, Chai |
 | Unit Testing and Error Handling | Exercise | 🔄 Pending | Writing and running unit tests |
 | Classes | Lab | 🔄 Pending | Constructor, getters/setters, `static` |
@@ -265,6 +265,27 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | 5 | Command Processor | ✅ |
 | 6 | List Processor | ✅ |
 | 7 | Cars | ✅ |
+
+</details>
+
+---
+
+<details>
+<summary><b>📋 Advanced Functions — Exercise</b></summary>
+<br>
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | Sort Array | ✅ |
+| 2 | Argument Info | ✅ |
+| 3 | Fibonacci | ✅ |
+| 4 | Breakfast Robot | ✅ |
+| 5 | Functional Sum | ✅ |
+| 6 | Monkey Patcher | ✅ |
+| 7 | Simple Calculator | ✅ |
+| 8 | Next Article | ✅ |
+| 9 | Task Manager | ✅ |
+| 10 | Central Cinema | ✅ |
 
 </details>
 

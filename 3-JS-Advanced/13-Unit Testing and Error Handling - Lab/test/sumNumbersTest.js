@@ -1,12 +1,12 @@
 const { expect } = require('chai');
-const { sum } = require('../sumNumbers');
+const { sum } = require('../00-Sum Numbers (Testing Task)/sumNumbers');
 
 describe('Sum numbers (Testing Task)', () => {
     it('sums single number', () => {
         expect(sum([1])).to.equal(1);
     });
 
-    if ('sums multiple numbers', () => {
+    it('sums multiple numbers', () => {
         expect(sum([1, 1])).to.equal(2);
     });
 

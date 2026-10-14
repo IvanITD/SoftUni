@@ -14,17 +14,10 @@ function playingCards(face, suit) {
     return {
         face,
         suit,
-        toString() {
+        toString: function() {
             return face + suits[suit];
         }
     };
 }
 
-console.log(playingCards('A', 'S'));
-console.log(playingCards('10', 'H'));
-
-try {
-    playingCards('1', 'C');
-} catch (err) {
-    console.log(err.message);
-}
+module.exports = { playingCards };

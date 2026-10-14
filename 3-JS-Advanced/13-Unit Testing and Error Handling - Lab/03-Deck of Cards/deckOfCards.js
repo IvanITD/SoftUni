@@ -38,5 +38,4 @@ function deckOfCards(cards) {
     console.log(result.join(' '));
 }
 
-deckOfCards(['AS', '10D', 'KH', '2C']);
-deckOfCards(['5S', '3D', 'QD', '1C']);
+module.exports = { deckOfCards };

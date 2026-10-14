@@ -1,7 +1,7 @@
 const { expect } = require('chai');
 const { sum } = require('../sumNumbers');
 
-describe('Sum numbers', () => {
+describe('Sum numbers (Testing Task)', () => {
     it('sums single number', () => {
         expect(sum([1])).to.equal(1);
     });

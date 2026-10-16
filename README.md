@@ -126,9 +126,9 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 | 10 | DOM Manipulations and Events | Exercise | ✅ Completed |
 | 11 | Advanced Functions | Lab | ✅ Completed |
 | 12 | Advanced Functions | Exercise | ✅ Completed |
-| 13 | Unit Testing and Error Handling | Lab | 🔄 Pending |
-| 14 | Unit Testing and Error Handling | Exercise | 🔄 Pending |
-| 15 | Classes | Lab | 🔄 Pending |
+| 13 | Unit Testing and Error Handling | Lab | ✅ Completed |
+| 14 | Unit Testing and Error Handling | Exercise | ✅ Completed |
+| 15 | Classes | Lab | ✅ Completed |
 | 16 | Classes | Exercise | 🔄 Pending |
 | 17 | Prototypes and Inheritance | Lab | 🔄 Pending |
 | 18 | Prototypes and Inheritance | Exercise | 🔄 Pending |

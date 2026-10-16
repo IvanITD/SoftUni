@@ -17,7 +17,7 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 - **Language:** JavaScript (Node.js)
 - **IDE:** VS Code / Cursor
 - **Version Control:** Git & GitHub
-- **Testing:** Mocha & Chai *(later topics)*
+- **Testing:** Mocha & Chai
 
 ---
 
@@ -37,9 +37,9 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | DOM Manipulations and Events | Exercise | ✅ Completed | Event object, `JSON.parse`, encode/decode, dynamic UI |
 | Advanced Functions | Lab | ✅ Completed | Closures, `.call`, partial application, `Object.create` |
 | Advanced Functions | Exercise | ✅ Completed | Closures, currying, `.call`, DOM state |
-| Unit Testing and Error Handling | Lab | 🔄 Pending | `throw`, `try` / `catch`, Mocha, Chai |
-| Unit Testing and Error Handling | Exercise | 🔄 Pending | Writing and running unit tests |
-| Classes | Lab | 🔄 Pending | Constructor, getters/setters, `static` |
+| Unit Testing and Error Handling | Lab | ✅ Completed | `throw`, `try` / `catch`, Mocha, Chai |
+| Unit Testing and Error Handling | Exercise | ✅ Completed | Writing and running unit tests |
+| Classes | Lab | ✅ Completed | Constructor, getters/setters, `static` |
 | Classes | Exercise | 🔄 Pending | Class inheritance, accessors |
 | Prototypes and Inheritance | Lab | 🔄 Pending | Prototype chain, `Object.create` |
 | Prototypes and Inheritance | Exercise | 🔄 Pending | Inheritance, `instanceof` |
@@ -286,6 +286,59 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | 8 | Next Article | ✅ |
 | 9 | Task Manager | ✅ |
 | 10 | Central Cinema | ✅ |
+
+</details>
+
+---
+
+<details>
+<summary><b>📋 Unit Testing and Error Handling — Lab</b></summary>
+<br>
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | Sub Sum | ✅ |
+| 2 | Playing Cards | ✅ |
+| 3 | Deck of Cards | ✅ |
+| 4 | Sum of Numbers | ✅ |
+| 5 | Check for Symmetry | ✅ |
+| 6 | RGB to Hex | ✅ |
+| 7 | Add / Subtract | ✅ |
+
+</details>
+
+---
+
+<details>
+<summary><b>📋 Unit Testing and Error Handling — Exercise</b></summary>
+<br>
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | Request Validator | ✅ |
+| 2 | Even or Odd | ✅ |
+| 3 | Char Lookup | ✅ |
+| 4 | Math Enforcer | ✅ |
+| 5 | Notification | ✅ |
+| 6 | Dynamic Validation | ✅ |
+| 7 | Form Validation | ✅ |
+
+</details>
+
+---
+
+<details>
+<summary><b>📋 Classes — Lab</b></summary>
+<br>
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | Person | ✅ |
+| 2 | Get Persons | ✅ |
+| 3 | Circle | ✅ |
+| 4 | Point Distance | ✅ |
+| 5 | Auto-Engineering Company | ✅ |
+| 6 | String Builder | ✅ |
 
 </details>
 

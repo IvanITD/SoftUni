@@ -40,7 +40,7 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | Unit Testing and Error Handling | Lab | ✅ Completed | `throw`, `try` / `catch`, Mocha, Chai |
 | Unit Testing and Error Handling | Exercise | ✅ Completed | Writing and running unit tests |
 | Classes | Lab | ✅ Completed | Constructor, getters/setters, `static` |
-| Classes | Exercise | 🔄 Pending | Class inheritance, accessors |
+| Classes | Exercise | ✅ Completed | Getters/setters, validation, DOM classes, Mocha |
 | Prototypes and Inheritance | Lab | 🔄 Pending | Prototype chain, `Object.create` |
 | Prototypes and Inheritance | Exercise | 🔄 Pending | Inheritance, `instanceof` |
 | Exam Preparation | Practice | 🔄 Pending | Combined exam-style problems |
@@ -339,6 +339,28 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | 4 | Point Distance | ✅ |
 | 5 | Auto-Engineering Company | ✅ |
 | 6 | String Builder | ✅ |
+
+</details>
+
+---
+
+<details>
+<summary><b>📋 Classes — Exercise</b></summary>
+<br>
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | Rectangle | ✅ |
+| 2 | Data Class | ✅ |
+| 3 | Tickets | ✅ |
+| 4 | Sorted List | ✅ |
+| 5 | Length Limit | ✅ |
+| 6 | Company | ✅ |
+| 7 | HEX | ✅ |
+| 8 | Juice Flavors | ✅ |
+| 9 | Contacts Builder | ✅ |
+| 10 | View Model | ✅ |
+| 11 | Payment Package | ✅ |
 
 </details>
 

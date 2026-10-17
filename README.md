@@ -129,7 +129,7 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 | 13 | Unit Testing and Error Handling | Lab | ✅ Completed |
 | 14 | Unit Testing and Error Handling | Exercise | ✅ Completed |
 | 15 | Classes | Lab | ✅ Completed |
-| 16 | Classes | Exercise | 🔄 Pending |
+| 16 | Classes | Exercise | ✅ Completed |
 | 17 | Prototypes and Inheritance | Lab | 🔄 Pending |
 | 18 | Prototypes and Inheritance | Exercise | 🔄 Pending |
 | 19 | Exam Preparation | Practice | 🔄 Pending |

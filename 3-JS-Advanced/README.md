@@ -41,8 +41,8 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | Unit Testing and Error Handling | Exercise | ✅ Completed | Writing and running unit tests |
 | Classes | Lab | ✅ Completed | Constructor, getters/setters, `static` |
 | Classes | Exercise | ✅ Completed | Getters/setters, validation, DOM classes, Mocha |
-| Prototypes and Inheritance | Lab | 🔄 Pending | Prototype chain, `Object.create` |
-| Prototypes and Inheritance | Exercise | 🔄 Pending | Inheritance, `instanceof` |
+| Prototypes and Inheritance | Lab | ✅ Completed | Prototype methods, `extends`, unit conversion |
+| Prototypes and Inheritance | Exercise | ✅ Completed | Prototype methods, inheritance, `instanceof` |
 | Exam Preparation | Practice | 🔄 Pending | Combined exam-style problems |
 | Workshop: Browser Game | Workshop | 🔄 Pending | Putting DOM + events together |
 | Regular Exam | Exam | 🔄 Pending | Practical exam + theory test |
@@ -361,6 +361,40 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | 9 | Contacts Builder | ✅ |
 | 10 | View Model | ✅ |
 | 11 | Payment Package | ✅ |
+
+</details>
+
+---
+
+<details>
+<summary><b>📋 Prototypes and Inheritance — Lab</b></summary>
+<br>
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | Person | ✅ |
+| 2 | Person and Teacher | ✅ |
+| 3 | Inheriting and Replacing toString | ✅ |
+| 4 | Extend Prototype | ✅ |
+| 5 | Class Hierarchy | ✅ |
+
+</details>
+
+---
+
+<details>
+<summary><b>📋 Prototypes and Inheritance — Exercise</b></summary>
+<br>
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | Array Extension | ✅ |
+| 2 | String Extension | ✅ |
+| 3 | Extensible Object | ✅ |
+| 4 | Balloons | ✅ |
+| 5 | People | ✅ |
+| 6 | Posts | ✅ |
+| 7 | Computer | ✅ |
 
 </details>
 

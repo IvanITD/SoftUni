@@ -1,0 +1,20 @@
+{
+  "name": "21-regular-exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "chai": "^4.5.0",
+    "mocha": "^12.0.3"
+  }
+}

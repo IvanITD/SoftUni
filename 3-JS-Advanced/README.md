@@ -43,10 +43,9 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | Classes | Exercise | ✅ Completed | Getters/setters, validation, DOM classes, Mocha |
 | Prototypes and Inheritance | Lab | ✅ Completed | Prototype methods, `extends`, unit conversion |
 | Prototypes and Inheritance | Exercise | ✅ Completed | Prototype methods, inheritance, `instanceof` |
-| Exam Preparation | Practice | 🔄 Pending | Combined exam-style problems |
+| Exam Preparation | Practice | ✅ Completed | DOM preview flow, class state, Mocha |
 | Workshop: Browser Game | Workshop | 🔄 Pending | Putting DOM + events together |
-| Regular Exam | Exam | 🔄 Pending | Practical exam + theory test |
-| Retake Exam | Exam | 🔄 Pending | — |
+| Regular Exam | Exam | ✅ Completed | DOM form flow, class validation, Mocha |
 
 ---
 
@@ -395,6 +394,34 @@ Welcome to my **SoftUni JS Advanced** repository. This contains all tasks and so
 | 5 | People | ✅ |
 | 6 | Posts | ✅ |
 | 7 | Computer | ✅ |
+
+</details>
+
+---
+
+<details>
+<summary><b>📋 Exam Preparation</b></summary>
+<br>
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | Active Minutes | ✅ |
+| 2 | Hotel Operations | ✅ |
+| 3 | Streaming Service Selector | ✅ |
+
+</details>
+
+---
+
+<details>
+<summary><b>📋 Regular Exam</b></summary>
+<br>
+
+| # | Task | Status |
+|---|------|--------|
+| 1 | Car Parts | ✅ |
+| 2 | Job Offers | ✅ |
+| 3 | Lottery | ✅ |
 
 </details>
 

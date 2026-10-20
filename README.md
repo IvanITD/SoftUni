@@ -132,10 +132,9 @@ My journey through the **SoftUni** curriculum — code, exercises, and projects 
 | 16 | Classes | Exercise | ✅ Completed |
 | 17 | Prototypes and Inheritance | Lab | ✅ Completed |
 | 18 | Prototypes and Inheritance | Exercise | ✅ Completed |
-| 19 | Exam Preparation | Practice | 🔄 Pending |
+| 19 | Exam Preparation | Practice | ✅ Completed |
 | 20 | Workshop: Browser Game | Workshop | 🔄 Pending |
-| 21 | Regular Exam | Exam | 🔄 Pending |
-| 22 | Retake Exam | Exam | 🔄 Pending |
+| 21 | Regular Exam | Exam | ✅ Completed |
 
 <p align="right"><a href="./3-JS-Advanced">→ Full details</a></p>
 </details>
